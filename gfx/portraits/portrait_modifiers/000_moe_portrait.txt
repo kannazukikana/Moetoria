@@ -1,0 +1,5322 @@
+moe_portrait = {
+british = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_british
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_british_trigger = yes
+                moe_clothes_pop_british_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+slovak = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_slovak
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_slovak_trigger = yes
+                moe_clothes_pop_slovak_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+khmer = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_khmer
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_khmer_trigger = yes
+                moe_clothes_pop_khmer_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+ibibio = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_ibibio
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_ibibio_trigger = yes
+                moe_clothes_pop_ibibio_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+guajiro = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_guajiro
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_guajiro_trigger = yes
+                moe_clothes_pop_guajiro_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+russian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_russian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_russian_trigger = yes
+                moe_clothes_pop_russian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tibetan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tibetan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tibetan_trigger = yes
+                moe_clothes_pop_tibetan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+malay = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_malay
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_malay_trigger = yes
+                moe_clothes_pop_malay_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+lithuanian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_lithuanian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_lithuanian_trigger = yes
+                moe_clothes_pop_lithuanian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+vietnamese = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_vietnamese
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_vietnamese_trigger = yes
+                moe_clothes_pop_vietnamese_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sudanese = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_sudanese
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sudanese_trigger = yes
+                moe_clothes_pop_sudanese_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sotho = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_sotho
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sotho_trigger = yes
+                moe_clothes_pop_sotho_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+edo = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_edo
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_edo_trigger = yes
+                moe_clothes_pop_edo_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+﻿welsh = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_﻿welsh
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_﻿welsh_trigger = yes
+                moe_clothes_pop_﻿welsh_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+anglo_canadian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_anglo_canadian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_anglo_canadian_trigger = yes
+                moe_clothes_pop_anglo_canadian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+moluccan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_moluccan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_moluccan_trigger = yes
+                moe_clothes_pop_moluccan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+panjabi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_panjabi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_panjabi_trigger = yes
+                moe_clothes_pop_panjabi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+shan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_shan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_shan_trigger = yes
+                moe_clothes_pop_shan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+nepali = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_nepali
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_nepali_trigger = yes
+                moe_clothes_pop_nepali_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+nilotic = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_nilotic
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_nilotic_trigger = yes
+                moe_clothes_pop_nilotic_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+malayalam = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_malayalam
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_malayalam_trigger = yes
+                moe_clothes_pop_malayalam_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+french = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_french
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_french_trigger = yes
+                moe_clothes_pop_french_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+ewe = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_ewe
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_ewe_trigger = yes
+                moe_clothes_pop_ewe_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+mongol = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_mongol
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_mongol_trigger = yes
+                moe_clothes_pop_mongol_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+mon = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_mon
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_mon_trigger = yes
+                moe_clothes_pop_mon_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+occitan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_occitan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_occitan_trigger = yes
+                moe_clothes_pop_occitan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+maures = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_maures
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_maures_trigger = yes
+                moe_clothes_pop_maures_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+akan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_akan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_akan_trigger = yes
+                moe_clothes_pop_akan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+mexican = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_mexican
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_mexican_trigger = yes
+                moe_clothes_pop_mexican_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+zhuang = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_zhuang
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_zhuang_trigger = yes
+                moe_clothes_pop_zhuang_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+bihari = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_bihari
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_bihari_trigger = yes
+                moe_clothes_pop_bihari_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+gujarati = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_gujarati
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_gujarati_trigger = yes
+                moe_clothes_pop_gujarati_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+siouan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_siouan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_siouan_trigger = yes
+                moe_clothes_pop_siouan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+inuit = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_inuit
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_inuit_trigger = yes
+                moe_clothes_pop_inuit_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+miskito = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_miskito
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_miskito_trigger = yes
+                moe_clothes_pop_miskito_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+hokan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_hokan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_hokan_trigger = yes
+                moe_clothes_pop_hokan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+uzbek = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_uzbek
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_uzbek_trigger = yes
+                moe_clothes_pop_uzbek_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+han = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_han
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_han_trigger = yes
+                moe_clothes_pop_han_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+beja = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_beja
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_beja_trigger = yes
+                moe_clothes_pop_beja_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+unyamwezi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_unyamwezi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_unyamwezi_trigger = yes
+                moe_clothes_pop_unyamwezi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+north_italian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_north_italian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_north_italian_trigger = yes
+                moe_clothes_pop_north_italian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+romanian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_romanian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_romanian_trigger = yes
+                moe_clothes_pop_romanian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+amhara = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_amhara
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_amhara_trigger = yes
+                moe_clothes_pop_amhara_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+south_german = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_south_german
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_south_german_trigger = yes
+                moe_clothes_pop_south_german_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+fang = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_fang
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_fang_trigger = yes
+                moe_clothes_pop_fang_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+haratin = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_haratin
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_haratin_trigger = yes
+                moe_clothes_pop_haratin_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+bedouin = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_bedouin
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_bedouin_trigger = yes
+                moe_clothes_pop_bedouin_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+south_andean = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_south_andean
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_south_andean_trigger = yes
+                moe_clothes_pop_south_andean_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+north_german = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_north_german
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_north_german_trigger = yes
+                moe_clothes_pop_north_german_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+croat = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_croat
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_croat_trigger = yes
+                moe_clothes_pop_croat_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kanuri = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kanuri
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kanuri_trigger = yes
+                moe_clothes_pop_kanuri_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+yankee = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_yankee
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_yankee_trigger = yes
+                moe_clothes_pop_yankee_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+brazilian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_brazilian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_brazilian_trigger = yes
+                moe_clothes_pop_brazilian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+lunda = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_lunda
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_lunda_trigger = yes
+                moe_clothes_pop_lunda_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+dinka = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_dinka
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_dinka_trigger = yes
+                moe_clothes_pop_dinka_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kikuyu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kikuyu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kikuyu_trigger = yes
+                moe_clothes_pop_kikuyu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+spanish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_spanish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_spanish_trigger = yes
+                moe_clothes_pop_spanish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tuvan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tuvan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tuvan_trigger = yes
+                moe_clothes_pop_tuvan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+byelorussian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_byelorussian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_byelorussian_trigger = yes
+                moe_clothes_pop_byelorussian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+teda = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_teda
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_teda_trigger = yes
+                moe_clothes_pop_teda_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+metis = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_metis
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_metis_trigger = yes
+                moe_clothes_pop_metis_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+yakut = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_yakut
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_yakut_trigger = yes
+                moe_clothes_pop_yakut_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tonga = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tonga
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tonga_trigger = yes
+                moe_clothes_pop_tonga_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+dyula = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_dyula
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_dyula_trigger = yes
+                moe_clothes_pop_dyula_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+portuguese = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_portuguese
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_portuguese_trigger = yes
+                moe_clothes_pop_portuguese_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+telegu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_telegu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_telegu_trigger = yes
+                moe_clothes_pop_telegu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+aborigine = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_aborigine
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_aborigine_trigger = yes
+                moe_clothes_pop_aborigine_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+balinese = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_balinese
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_balinese_trigger = yes
+                moe_clothes_pop_balinese_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+burmese = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_burmese
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_burmese_trigger = yes
+                moe_clothes_pop_burmese_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+songhai = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_songhai
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_songhai_trigger = yes
+                moe_clothes_pop_songhai_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+luo = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_luo
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_luo_trigger = yes
+                moe_clothes_pop_luo_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+corsican = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_corsican
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_corsican_trigger = yes
+                moe_clothes_pop_corsican_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+yue = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_yue
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_yue_trigger = yes
+                moe_clothes_pop_yue_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+bulgarian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_bulgarian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_bulgarian_trigger = yes
+                moe_clothes_pop_bulgarian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+australian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_australian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_australian_trigger = yes
+                moe_clothes_pop_australian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+herero = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_herero
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_herero_trigger = yes
+                moe_clothes_pop_herero_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+muskogean = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_muskogean
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_muskogean_trigger = yes
+                moe_clothes_pop_muskogean_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+somali = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_somali
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_somali_trigger = yes
+                moe_clothes_pop_somali_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+nez_perce = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_nez_perce
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_nez_perce_trigger = yes
+                moe_clothes_pop_nez_perce_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+mande = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_mande
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_mande_trigger = yes
+                moe_clothes_pop_mande_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+mossi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_mossi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_mossi_trigger = yes
+                moe_clothes_pop_mossi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tupinamba = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tupinamba
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tupinamba_trigger = yes
+                moe_clothes_pop_tupinamba_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sephardic = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_sephardic
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sephardic_trigger = yes
+                moe_clothes_pop_sephardic_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+bornean = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_bornean
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_bornean_trigger = yes
+                moe_clothes_pop_bornean_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+athabaskan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_athabaskan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_athabaskan_trigger = yes
+                moe_clothes_pop_athabaskan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+mashriqi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_mashriqi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_mashriqi_trigger = yes
+                moe_clothes_pop_mashriqi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+dayak = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_dayak
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_dayak_trigger = yes
+                moe_clothes_pop_dayak_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+oromo = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_oromo
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_oromo_trigger = yes
+                moe_clothes_pop_oromo_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+iroquoian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_iroquoian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_iroquoian_trigger = yes
+                moe_clothes_pop_iroquoian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kachin = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kachin
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kachin_trigger = yes
+                moe_clothes_pop_kachin_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+aimara = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_aimara
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_aimara_trigger = yes
+                moe_clothes_pop_aimara_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+moro = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_moro
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_moro_trigger = yes
+                moe_clothes_pop_moro_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+javan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_javan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_javan_trigger = yes
+                moe_clothes_pop_javan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+dakota = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_dakota
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_dakota_trigger = yes
+                moe_clothes_pop_dakota_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+cariban = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_cariban
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_cariban_trigger = yes
+                moe_clothes_pop_cariban_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sara = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_sara
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sara_trigger = yes
+                moe_clothes_pop_sara_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+equatorial_bantu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_equatorial_bantu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_equatorial_bantu_trigger = yes
+                moe_clothes_pop_equatorial_bantu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+circassian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_circassian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_circassian_trigger = yes
+                moe_clothes_pop_circassian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+albanian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_albanian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_albanian_trigger = yes
+                moe_clothes_pop_albanian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+bengali = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_bengali
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_bengali_trigger = yes
+                moe_clothes_pop_bengali_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tajik = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tajik
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tajik_trigger = yes
+                moe_clothes_pop_tajik_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+wallonian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_wallonian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_wallonian_trigger = yes
+                moe_clothes_pop_wallonian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+azerbaijani = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_azerbaijani
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_azerbaijani_trigger = yes
+                moe_clothes_pop_azerbaijani_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+rajput = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_rajput
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_rajput_trigger = yes
+                moe_clothes_pop_rajput_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+polynesian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_polynesian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_polynesian_trigger = yes
+                moe_clothes_pop_polynesian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+greek = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_greek
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_greek_trigger = yes
+                moe_clothes_pop_greek_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+zapotec = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_zapotec
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_zapotec_trigger = yes
+                moe_clothes_pop_zapotec_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+baluchi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_baluchi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_baluchi_trigger = yes
+                moe_clothes_pop_baluchi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+armenian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_armenian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_armenian_trigger = yes
+                moe_clothes_pop_armenian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+batak = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_batak
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_batak_trigger = yes
+                moe_clothes_pop_batak_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+thai = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_thai
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_thai_trigger = yes
+                moe_clothes_pop_thai_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+afro_american = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_afro_american
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_afro_american_trigger = yes
+                moe_clothes_pop_afro_american_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+flemish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_flemish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_flemish_trigger = yes
+                moe_clothes_pop_flemish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+ukrainian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_ukrainian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_ukrainian_trigger = yes
+                moe_clothes_pop_ukrainian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+avadhi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_avadhi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_avadhi_trigger = yes
+                moe_clothes_pop_avadhi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+melanesian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_melanesian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_melanesian_trigger = yes
+                moe_clothes_pop_melanesian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+nahua = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_nahua
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_nahua_trigger = yes
+                moe_clothes_pop_nahua_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+mixtec = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_mixtec
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_mixtec_trigger = yes
+                moe_clothes_pop_mixtec_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+rundi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_rundi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_rundi_trigger = yes
+                moe_clothes_pop_rundi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+siberian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_siberian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_siberian_trigger = yes
+                moe_clothes_pop_siberian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+fluvian_bantu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_fluvian_bantu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_fluvian_bantu_trigger = yes
+                moe_clothes_pop_fluvian_bantu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tigray = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tigray
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tigray_trigger = yes
+                moe_clothes_pop_tigray_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+hungarian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_hungarian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_hungarian_trigger = yes
+                moe_clothes_pop_hungarian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+boer = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_boer
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_boer_trigger = yes
+                moe_clothes_pop_boer_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+salish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_salish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_salish_trigger = yes
+                moe_clothes_pop_salish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+south_italian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_south_italian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_south_italian_trigger = yes
+                moe_clothes_pop_south_italian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+afar = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_afar
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_afar_trigger = yes
+                moe_clothes_pop_afar_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+baganda = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_baganda
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_baganda_trigger = yes
+                moe_clothes_pop_baganda_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+maori = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_maori
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_maori_trigger = yes
+                moe_clothes_pop_maori_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+malagasy = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_malagasy
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_malagasy_trigger = yes
+                moe_clothes_pop_malagasy_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+nuer = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_nuer
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_nuer_trigger = yes
+                moe_clothes_pop_nuer_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+north_caucasian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_north_caucasian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_north_caucasian_trigger = yes
+                moe_clothes_pop_north_caucasian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+nguni = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_nguni
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_nguni_trigger = yes
+                moe_clothes_pop_nguni_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sidama = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_sidama
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sidama_trigger = yes
+                moe_clothes_pop_sidama_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sena = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_sena
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sena_trigger = yes
+                moe_clothes_pop_sena_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+afro_caribeno = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_afro_caribeno
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_afro_caribeno_trigger = yes
+                moe_clothes_pop_afro_caribeno_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sumatran = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_sumatran
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sumatran_trigger = yes
+                moe_clothes_pop_sumatran_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+fur = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_fur
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_fur_trigger = yes
+                moe_clothes_pop_fur_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+apache = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_apache
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_apache_trigger = yes
+                moe_clothes_pop_apache_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+mayan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_mayan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_mayan_trigger = yes
+                moe_clothes_pop_mayan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+shona = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_shona
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_shona_trigger = yes
+                moe_clothes_pop_shona_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tswana = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tswana
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tswana_trigger = yes
+                moe_clothes_pop_tswana_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+afro_antillean = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_afro_antillean
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_afro_antillean_trigger = yes
+                moe_clothes_pop_afro_antillean_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+serb = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_serb
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_serb_trigger = yes
+                moe_clothes_pop_serb_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+manchu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_manchu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_manchu_trigger = yes
+                moe_clothes_pop_manchu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+irish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_irish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_irish_trigger = yes
+                moe_clothes_pop_irish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+ugrian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_ugrian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_ugrian_trigger = yes
+                moe_clothes_pop_ugrian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+danish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_danish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_danish_trigger = yes
+                moe_clothes_pop_danish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+pashtun = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_pashtun
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_pashtun_trigger = yes
+                moe_clothes_pop_pashtun_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kanauji = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kanauji
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kanauji_trigger = yes
+                moe_clothes_pop_kanauji_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+ovimbundu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_ovimbundu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_ovimbundu_trigger = yes
+                moe_clothes_pop_ovimbundu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+dutch = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_dutch
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_dutch_trigger = yes
+                moe_clothes_pop_dutch_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+persian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_persian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_persian_trigger = yes
+                moe_clothes_pop_persian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sorb = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_sorb
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sorb_trigger = yes
+                moe_clothes_pop_sorb_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+khmu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_khmu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_khmu_trigger = yes
+                moe_clothes_pop_khmu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+dixie = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_dixie
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_dixie_trigger = yes
+                moe_clothes_pop_dixie_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+polish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_polish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_polish_trigger = yes
+                moe_clothes_pop_polish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+lomwe = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_lomwe
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_lomwe_trigger = yes
+                moe_clothes_pop_lomwe_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+xhosa = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_xhosa
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_xhosa_trigger = yes
+                moe_clothes_pop_xhosa_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+icelandic = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_icelandic
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_icelandic_trigger = yes
+                moe_clothes_pop_icelandic_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+mongo = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_mongo
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_mongo_trigger = yes
+                moe_clothes_pop_mongo_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+slovene = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_slovene
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_slovene_trigger = yes
+                moe_clothes_pop_slovene_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+estonian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_estonian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_estonian_trigger = yes
+                moe_clothes_pop_estonian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kru = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kru
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kru_trigger = yes
+                moe_clothes_pop_kru_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+oriya = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_oriya
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_oriya_trigger = yes
+                moe_clothes_pop_oriya_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+cajun = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_cajun
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_cajun_trigger = yes
+                moe_clothes_pop_cajun_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+hakka = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_hakka
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_hakka_trigger = yes
+                moe_clothes_pop_hakka_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+marathi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_marathi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_marathi_trigger = yes
+                moe_clothes_pop_marathi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sami = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_sami
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sami_trigger = yes
+                moe_clothes_pop_sami_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+bakongo = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_bakongo
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_bakongo_trigger = yes
+                moe_clothes_pop_bakongo_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+min = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_min
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_min_trigger = yes
+                moe_clothes_pop_min_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+luba = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_luba
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_luba_trigger = yes
+                moe_clothes_pop_luba_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+oodham = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_oodham
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_oodham_trigger = yes
+                moe_clothes_pop_oodham_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+muisca = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_muisca
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_muisca_trigger = yes
+                moe_clothes_pop_muisca_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+pueblo = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_pueblo
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_pueblo_trigger = yes
+                moe_clothes_pop_pueblo_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+makua = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_makua
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_makua_trigger = yes
+                moe_clothes_pop_makua_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+yemenite = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_yemenite
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_yemenite_trigger = yes
+                moe_clothes_pop_yemenite_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kalmyk = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kalmyk
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kalmyk_trigger = yes
+                moe_clothes_pop_kalmyk_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+swedish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_swedish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_swedish_trigger = yes
+                moe_clothes_pop_swedish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+korean = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_korean
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_korean_trigger = yes
+                moe_clothes_pop_korean_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+yoruba = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_yoruba
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_yoruba_trigger = yes
+                moe_clothes_pop_yoruba_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+maasai = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_maasai
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_maasai_trigger = yes
+                moe_clothes_pop_maasai_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+manipuri = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_manipuri
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_manipuri_trigger = yes
+                moe_clothes_pop_manipuri_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+scottish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_scottish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_scottish_trigger = yes
+                moe_clothes_pop_scottish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+hazara = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_hazara
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_hazara_trigger = yes
+                moe_clothes_pop_hazara_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+ainu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_ainu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_ainu_trigger = yes
+                moe_clothes_pop_ainu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+latvian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_latvian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_latvian_trigger = yes
+                moe_clothes_pop_latvian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+yao = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_yao
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_yao_trigger = yes
+                moe_clothes_pop_yao_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+navajo = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_navajo
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_navajo_trigger = yes
+                moe_clothes_pop_navajo_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+catalan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_catalan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_catalan_trigger = yes
+                moe_clothes_pop_catalan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+hawaiian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_hawaiian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_hawaiian_trigger = yes
+                moe_clothes_pop_hawaiian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+cherokee = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_cherokee
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_cherokee_trigger = yes
+                moe_clothes_pop_cherokee_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+ruanda = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_ruanda
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_ruanda_trigger = yes
+                moe_clothes_pop_ruanda_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+guarani = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_guarani
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_guarani_trigger = yes
+                moe_clothes_pop_guarani_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+turkmen = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_turkmen
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_turkmen_trigger = yes
+                moe_clothes_pop_turkmen_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+breton = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_breton
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_breton_trigger = yes
+                moe_clothes_pop_breton_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+maghrebi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_maghrebi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_maghrebi_trigger = yes
+                moe_clothes_pop_maghrebi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+czech = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_czech
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_czech_trigger = yes
+                moe_clothes_pop_czech_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+georgian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_georgian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_georgian_trigger = yes
+                moe_clothes_pop_georgian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+assamese = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_assamese
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_assamese_trigger = yes
+                moe_clothes_pop_assamese_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+quechua = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_quechua
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_quechua_trigger = yes
+                moe_clothes_pop_quechua_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+north_andean = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_north_andean
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_north_andean_trigger = yes
+                moe_clothes_pop_north_andean_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+karen = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_karen
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_karen_trigger = yes
+                moe_clothes_pop_karen_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+ibo = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_ibo
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_ibo_trigger = yes
+                moe_clothes_pop_ibo_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+swahili = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_swahili
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_swahili_trigger = yes
+                moe_clothes_pop_swahili_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+galician = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_galician
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_galician_trigger = yes
+                moe_clothes_pop_galician_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+baguirmi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_baguirmi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_baguirmi_trigger = yes
+                moe_clothes_pop_baguirmi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+basque = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_basque
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_basque_trigger = yes
+                moe_clothes_pop_basque_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+misri = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_misri
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_misri_trigger = yes
+                moe_clothes_pop_misri_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kurdish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kurdish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kurdish_trigger = yes
+                moe_clothes_pop_kurdish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+japanese = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_japanese
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_japanese_trigger = yes
+                moe_clothes_pop_japanese_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+zulu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_zulu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_zulu_trigger = yes
+                moe_clothes_pop_zulu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kavango_bantu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kavango_bantu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kavango_bantu_trigger = yes
+                moe_clothes_pop_kavango_bantu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+fon = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_fon
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_fon_trigger = yes
+                moe_clothes_pop_fon_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tamil = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tamil
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tamil_trigger = yes
+                moe_clothes_pop_tamil_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+swiss = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_swiss
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_swiss_trigger = yes
+                moe_clothes_pop_swiss_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+afro_caribbean = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_afro_caribbean
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_afro_caribbean_trigger = yes
+                moe_clothes_pop_afro_caribbean_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+bambara = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_bambara
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_bambara_trigger = yes
+                moe_clothes_pop_bambara_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+franco_canadian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_franco_canadian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_franco_canadian_trigger = yes
+                moe_clothes_pop_franco_canadian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tiv = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tiv
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tiv_trigger = yes
+                moe_clothes_pop_tiv_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+azande = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_azande
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_azande_trigger = yes
+                moe_clothes_pop_azande_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+nuba = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_nuba
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_nuba_trigger = yes
+                moe_clothes_pop_nuba_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+yi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_yi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_yi_trigger = yes
+                moe_clothes_pop_yi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+miao = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_miao
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_miao_trigger = yes
+                moe_clothes_pop_miao_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tatar = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tatar
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tatar_trigger = yes
+                moe_clothes_pop_tatar_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+senufo = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_senufo
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_senufo_trigger = yes
+                moe_clothes_pop_senufo_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+amazonian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_amazonian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_amazonian_trigger = yes
+                moe_clothes_pop_amazonian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+chewa = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_chewa
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_chewa_trigger = yes
+                moe_clothes_pop_chewa_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kannada = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kannada
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kannada_trigger = yes
+                moe_clothes_pop_kannada_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+fulbe = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_fulbe
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_fulbe_trigger = yes
+                moe_clothes_pop_fulbe_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tuareg = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tuareg
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tuareg_trigger = yes
+                moe_clothes_pop_tuareg_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+micronesian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_micronesian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_micronesian_trigger = yes
+                moe_clothes_pop_micronesian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+filipino = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_filipino
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_filipino_trigger = yes
+                moe_clothes_pop_filipino_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+cree = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_cree
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_cree_trigger = yes
+                moe_clothes_pop_cree_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+turkish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_turkish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_turkish_trigger = yes
+                moe_clothes_pop_turkish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+uighur = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_uighur
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_uighur_trigger = yes
+                moe_clothes_pop_uighur_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+afro_brazilian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_afro_brazilian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_afro_brazilian_trigger = yes
+                moe_clothes_pop_afro_brazilian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+algonquian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_algonquian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_algonquian_trigger = yes
+                moe_clothes_pop_algonquian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kirgiz = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kirgiz
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kirgiz_trigger = yes
+                moe_clothes_pop_kirgiz_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+patagonian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_patagonian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_patagonian_trigger = yes
+                moe_clothes_pop_patagonian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+assyrian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_assyrian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_assyrian_trigger = yes
+                moe_clothes_pop_assyrian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+tarascan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_tarascan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_tarascan_trigger = yes
+                moe_clothes_pop_tarascan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+bassa = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_bassa
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_bassa_trigger = yes
+                moe_clothes_pop_bassa_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+platinean = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_platinean
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_platinean_trigger = yes
+                moe_clothes_pop_platinean_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+wolof = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_wolof
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_wolof_trigger = yes
+                moe_clothes_pop_wolof_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+norwegian = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_norwegian
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_norwegian_trigger = yes
+                moe_clothes_pop_norwegian_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kashmiri = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_kashmiri
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kashmiri_trigger = yes
+                moe_clothes_pop_kashmiri_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+caribeno = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_caribeno
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_caribeno_trigger = yes
+                moe_clothes_pop_caribeno_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+ashkenazi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_ashkenazi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_ashkenazi_trigger = yes
+                moe_clothes_pop_ashkenazi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+khoisan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_khoisan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_khoisan_trigger = yes
+                moe_clothes_pop_khoisan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+finnish = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_finnish
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_finnish_trigger = yes
+                moe_clothes_pop_finnish_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+bosniak = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_bosniak
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_bosniak_trigger = yes
+                moe_clothes_pop_bosniak_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+central_american = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_central_american
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_central_american_trigger = yes
+                moe_clothes_pop_central_american_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+hausa = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_hausa
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_hausa_trigger = yes
+                moe_clothes_pop_hausa_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+lacustrine_bantu = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_lacustrine_bantu
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_lacustrine_bantu_trigger = yes
+                moe_clothes_pop_lacustrine_bantu_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+maltese = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_1
+            template = moe_prophet_maltese
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_maltese_trigger = yes
+                moe_clothes_pop_maltese_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sindi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_2
+            template = moe_prophet_sindi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sindi_trigger = yes
+                moe_clothes_pop_sindi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+paiute = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_2
+            template = moe_prophet_paiute
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_paiute_trigger = yes
+                moe_clothes_pop_paiute_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sukuma = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+             gene = moeprops_2
+            template = moe_prophet_sukuma
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sukuma_trigger = yes
+                moe_clothes_pop_sukuma_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+lao = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_2
+            template = moe_prophet_lao
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_lao_trigger = yes
+                moe_clothes_pop_lao_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+caddoan = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_2            
+		template = moe_prophet_caddoan
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_caddoan_trigger = yes
+                moe_clothes_pop_caddoan_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kazak = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_2
+            template = moe_prophet_kazak
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kazak_trigger = yes
+                moe_clothes_pop_kazak_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+berber = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_2
+            template = moe_prophet_berber
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_berber_trigger = yes
+                moe_clothes_pop_berber_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+comanche = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_2
+            template = moe_prophet_comanche
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_comanche_trigger = yes
+                moe_clothes_pop_comanche_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+kissi = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_2
+            template = moe_prophet_kissi
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_kissi_trigger = yes
+                moe_clothes_pop_kissi_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+sinhala = {
+    dna_modifiers = {
+        accessory = {
+            mode = add
+            gene = moeprops_2
+            template = moe_prophet_sinhala
+            value = 0.5
+        }
+    }
+    weight = {
+        base = 0
+        modifier = {
+            or = {
+                moe_clothes_sinhala_trigger = yes
+                moe_clothes_pop_sinhala_trigger = yes
+            }
+            add = 1000
+        }
+    }
+}
+}

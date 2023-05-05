@@ -1,0 +1,18 @@
+﻿moe_clothes_trigger = {
+	exists = scope:character
+	scope:character = {
+		OR = {
+			culture = cu:central_american
+			NOT = { culture = cu:central_american }
+		}
+	}
+}
+moe_clothes_pop_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		OR = {
+			culture = cu:central_american
+			NOT = { culture = cu:central_american }
+		}
+	}
+}

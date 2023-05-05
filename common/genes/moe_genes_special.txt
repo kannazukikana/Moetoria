@@ -1,0 +1,1870 @@
+special_genes = {
+	accessory_genes = {
+		moeprops_1 = {
+moe_prophet_british = {
+    index = 0
+    male = { 1 = moe_prophet_british }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_slovak = {
+    index = 1
+    male = { 1 = moe_prophet_slovak }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_khmer = {
+    index = 2
+    male = { 1 = moe_prophet_khmer }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_ibibio = {
+    index = 3
+    male = { 1 = moe_prophet_ibibio }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_guajiro = {
+    index = 4
+    male = { 1 = moe_prophet_guajiro }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_russian = {
+    index = 5
+    male = { 1 = moe_prophet_russian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tibetan = {
+    index = 6
+    male = { 1 = moe_prophet_tibetan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_malay = {
+    index = 7
+    male = { 1 = moe_prophet_malay }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_lithuanian = {
+    index = 8
+    male = { 1 = moe_prophet_lithuanian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_vietnamese = {
+    index = 9
+    male = { 1 = moe_prophet_vietnamese }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sudanese = {
+    index = 10
+    male = { 1 = moe_prophet_sudanese }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sotho = {
+    index = 11
+    male = { 1 = moe_prophet_sotho }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_edo = {
+    index = 12
+    male = { 1 = moe_prophet_edo }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_﻿welsh = {
+    index = 13
+    male = { 1 = moe_prophet_﻿welsh }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_anglo_canadian = {
+    index = 14
+    male = { 1 = moe_prophet_anglo_canadian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_moluccan = {
+    index = 15
+    male = { 1 = moe_prophet_moluccan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_panjabi = {
+    index = 16
+    male = { 1 = moe_prophet_panjabi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_shan = {
+    index = 17
+    male = { 1 = moe_prophet_shan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_nepali = {
+    index = 18
+    male = { 1 = moe_prophet_nepali }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_nilotic = {
+    index = 19
+    male = { 1 = moe_prophet_nilotic }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_malayalam = {
+    index = 20
+    male = { 1 = moe_prophet_malayalam }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_french = {
+    index = 21
+    male = { 1 = moe_prophet_french }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_ewe = {
+    index = 22
+    male = { 1 = moe_prophet_ewe }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_mongol = {
+    index = 23
+    male = { 1 = moe_prophet_mongol }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_mon = {
+    index = 24
+    male = { 1 = moe_prophet_mon }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_occitan = {
+    index = 25
+    male = { 1 = moe_prophet_occitan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_maures = {
+    index = 26
+    male = { 1 = moe_prophet_maures }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_akan = {
+    index = 27
+    male = { 1 = moe_prophet_akan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_mexican = {
+    index = 28
+    male = { 1 = moe_prophet_mexican }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_zhuang = {
+    index = 29
+    male = { 1 = moe_prophet_zhuang }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_bihari = {
+    index = 30
+    male = { 1 = moe_prophet_bihari }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_gujarati = {
+    index = 31
+    male = { 1 = moe_prophet_gujarati }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_siouan = {
+    index = 32
+    male = { 1 = moe_prophet_siouan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_inuit = {
+    index = 33
+    male = { 1 = moe_prophet_inuit }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_miskito = {
+    index = 34
+    male = { 1 = moe_prophet_miskito }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_hokan = {
+    index = 35
+    male = { 1 = moe_prophet_hokan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_uzbek = {
+    index = 36
+    male = { 1 = moe_prophet_uzbek }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_han = {
+    index = 37
+    male = { 1 = moe_prophet_han }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_beja = {
+    index = 38
+    male = { 1 = moe_prophet_beja }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_unyamwezi = {
+    index = 39
+    male = { 1 = moe_prophet_unyamwezi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_north_italian = {
+    index = 40
+    male = { 1 = moe_prophet_north_italian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_romanian = {
+    index = 41
+    male = { 1 = moe_prophet_romanian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_amhara = {
+    index = 42
+    male = { 1 = moe_prophet_amhara }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_south_german = {
+    index = 43
+    male = { 1 = moe_prophet_south_german }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_fang = {
+    index = 44
+    male = { 1 = moe_prophet_fang }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_haratin = {
+    index = 45
+    male = { 1 = moe_prophet_haratin }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_bedouin = {
+    index = 46
+    male = { 1 = moe_prophet_bedouin }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_south_andean = {
+    index = 47
+    male = { 1 = moe_prophet_south_andean }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_north_german = {
+    index = 48
+    male = { 1 = moe_prophet_north_german }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_croat = {
+    index = 49
+    male = { 1 = moe_prophet_croat }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kanuri = {
+    index = 50
+    male = { 1 = moe_prophet_kanuri }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_yankee = {
+    index = 51
+    male = { 1 = moe_prophet_yankee }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_brazilian = {
+    index = 52
+    male = { 1 = moe_prophet_brazilian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_lunda = {
+    index = 53
+    male = { 1 = moe_prophet_lunda }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_dinka = {
+    index = 54
+    male = { 1 = moe_prophet_dinka }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kikuyu = {
+    index = 55
+    male = { 1 = moe_prophet_kikuyu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_spanish = {
+    index = 56
+    male = { 1 = moe_prophet_spanish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tuvan = {
+    index = 57
+    male = { 1 = moe_prophet_tuvan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_byelorussian = {
+    index = 58
+    male = { 1 = moe_prophet_byelorussian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_teda = {
+    index = 59
+    male = { 1 = moe_prophet_teda }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_metis = {
+    index = 60
+    male = { 1 = moe_prophet_metis }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_yakut = {
+    index = 61
+    male = { 1 = moe_prophet_yakut }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tonga = {
+    index = 62
+    male = { 1 = moe_prophet_tonga }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_dyula = {
+    index = 63
+    male = { 1 = moe_prophet_dyula }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_portuguese = {
+    index = 64
+    male = { 1 = moe_prophet_portuguese }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_telegu = {
+    index = 65
+    male = { 1 = moe_prophet_telegu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_aborigine = {
+    index = 66
+    male = { 1 = moe_prophet_aborigine }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_balinese = {
+    index = 67
+    male = { 1 = moe_prophet_balinese }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_burmese = {
+    index = 68
+    male = { 1 = moe_prophet_burmese }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_songhai = {
+    index = 69
+    male = { 1 = moe_prophet_songhai }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_luo = {
+    index = 70
+    male = { 1 = moe_prophet_luo }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_corsican = {
+    index = 71
+    male = { 1 = moe_prophet_corsican }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_yue = {
+    index = 72
+    male = { 1 = moe_prophet_yue }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_bulgarian = {
+    index = 73
+    male = { 1 = moe_prophet_bulgarian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_australian = {
+    index = 74
+    male = { 1 = moe_prophet_australian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_herero = {
+    index = 75
+    male = { 1 = moe_prophet_herero }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_muskogean = {
+    index = 76
+    male = { 1 = moe_prophet_muskogean }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_somali = {
+    index = 77
+    male = { 1 = moe_prophet_somali }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_nez_perce = {
+    index = 78
+    male = { 1 = moe_prophet_nez_perce }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_mande = {
+    index = 79
+    male = { 1 = moe_prophet_mande }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_mossi = {
+    index = 80
+    male = { 1 = moe_prophet_mossi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tupinamba = {
+    index = 81
+    male = { 1 = moe_prophet_tupinamba }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sephardic = {
+    index = 82
+    male = { 1 = moe_prophet_sephardic }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_bornean = {
+    index = 83
+    male = { 1 = moe_prophet_bornean }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_athabaskan = {
+    index = 84
+    male = { 1 = moe_prophet_athabaskan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_mashriqi = {
+    index = 85
+    male = { 1 = moe_prophet_mashriqi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_dayak = {
+    index = 86
+    male = { 1 = moe_prophet_dayak }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_oromo = {
+    index = 87
+    male = { 1 = moe_prophet_oromo }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_iroquoian = {
+    index = 88
+    male = { 1 = moe_prophet_iroquoian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kachin = {
+    index = 89
+    male = { 1 = moe_prophet_kachin }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_aimara = {
+    index = 90
+    male = { 1 = moe_prophet_aimara }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_moro = {
+    index = 91
+    male = { 1 = moe_prophet_moro }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_javan = {
+    index = 92
+    male = { 1 = moe_prophet_javan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_dakota = {
+    index = 93
+    male = { 1 = moe_prophet_dakota }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_cariban = {
+    index = 94
+    male = { 1 = moe_prophet_cariban }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sara = {
+    index = 95
+    male = { 1 = moe_prophet_sara }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_equatorial_bantu = {
+    index = 96
+    male = { 1 = moe_prophet_equatorial_bantu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_circassian = {
+    index = 97
+    male = { 1 = moe_prophet_circassian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_albanian = {
+    index = 98
+    male = { 1 = moe_prophet_albanian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_bengali = {
+    index = 99
+    male = { 1 = moe_prophet_bengali }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tajik = {
+    index = 100
+    male = { 1 = moe_prophet_tajik }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_wallonian = {
+    index = 101
+    male = { 1 = moe_prophet_wallonian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_azerbaijani = {
+    index = 102
+    male = { 1 = moe_prophet_azerbaijani }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_rajput = {
+    index = 103
+    male = { 1 = moe_prophet_rajput }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_polynesian = {
+    index = 104
+    male = { 1 = moe_prophet_polynesian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_greek = {
+    index = 105
+    male = { 1 = moe_prophet_greek }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_zapotec = {
+    index = 106
+    male = { 1 = moe_prophet_zapotec }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_baluchi = {
+    index = 107
+    male = { 1 = moe_prophet_baluchi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_armenian = {
+    index = 108
+    male = { 1 = moe_prophet_armenian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_batak = {
+    index = 109
+    male = { 1 = moe_prophet_batak }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_thai = {
+    index = 110
+    male = { 1 = moe_prophet_thai }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_afro_american = {
+    index = 111
+    male = { 1 = moe_prophet_afro_american }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_flemish = {
+    index = 112
+    male = { 1 = moe_prophet_flemish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_ukrainian = {
+    index = 113
+    male = { 1 = moe_prophet_ukrainian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_avadhi = {
+    index = 114
+    male = { 1 = moe_prophet_avadhi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_melanesian = {
+    index = 115
+    male = { 1 = moe_prophet_melanesian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_nahua = {
+    index = 116
+    male = { 1 = moe_prophet_nahua }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_mixtec = {
+    index = 117
+    male = { 1 = moe_prophet_mixtec }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_rundi = {
+    index = 118
+    male = { 1 = moe_prophet_rundi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_siberian = {
+    index = 119
+    male = { 1 = moe_prophet_siberian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_fluvian_bantu = {
+    index = 120
+    male = { 1 = moe_prophet_fluvian_bantu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tigray = {
+    index = 121
+    male = { 1 = moe_prophet_tigray }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_hungarian = {
+    index = 122
+    male = { 1 = moe_prophet_hungarian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_boer = {
+    index = 123
+    male = { 1 = moe_prophet_boer }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_salish = {
+    index = 124
+    male = { 1 = moe_prophet_salish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_south_italian = {
+    index = 125
+    male = { 1 = moe_prophet_south_italian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_afar = {
+    index = 126
+    male = { 1 = moe_prophet_afar }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_baganda = {
+    index = 127
+    male = { 1 = moe_prophet_baganda }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_maori = {
+    index = 128
+    male = { 1 = moe_prophet_maori }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_malagasy = {
+    index = 129
+    male = { 1 = moe_prophet_malagasy }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_nuer = {
+    index = 130
+    male = { 1 = moe_prophet_nuer }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_north_caucasian = {
+    index = 131
+    male = { 1 = moe_prophet_north_caucasian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_nguni = {
+    index = 132
+    male = { 1 = moe_prophet_nguni }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sidama = {
+    index = 133
+    male = { 1 = moe_prophet_sidama }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sena = {
+    index = 134
+    male = { 1 = moe_prophet_sena }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_afro_caribeno = {
+    index = 135
+    male = { 1 = moe_prophet_afro_caribeno }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sumatran = {
+    index = 136
+    male = { 1 = moe_prophet_sumatran }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_fur = {
+    index = 137
+    male = { 1 = moe_prophet_fur }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_apache = {
+    index = 138
+    male = { 1 = moe_prophet_apache }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_mayan = {
+    index = 139
+    male = { 1 = moe_prophet_mayan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_shona = {
+    index = 140
+    male = { 1 = moe_prophet_shona }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tswana = {
+    index = 141
+    male = { 1 = moe_prophet_tswana }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_afro_antillean = {
+    index = 142
+    male = { 1 = moe_prophet_afro_antillean }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_serb = {
+    index = 143
+    male = { 1 = moe_prophet_serb }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_manchu = {
+    index = 144
+    male = { 1 = moe_prophet_manchu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_irish = {
+    index = 145
+    male = { 1 = moe_prophet_irish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_ugrian = {
+    index = 146
+    male = { 1 = moe_prophet_ugrian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_danish = {
+    index = 147
+    male = { 1 = moe_prophet_danish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_pashtun = {
+    index = 148
+    male = { 1 = moe_prophet_pashtun }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kanauji = {
+    index = 149
+    male = { 1 = moe_prophet_kanauji }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_ovimbundu = {
+    index = 150
+    male = { 1 = moe_prophet_ovimbundu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_dutch = {
+    index = 151
+    male = { 1 = moe_prophet_dutch }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_persian = {
+    index = 152
+    male = { 1 = moe_prophet_persian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sorb = {
+    index = 153
+    male = { 1 = moe_prophet_sorb }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_khmu = {
+    index = 154
+    male = { 1 = moe_prophet_khmu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_dixie = {
+    index = 155
+    male = { 1 = moe_prophet_dixie }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_polish = {
+    index = 156
+    male = { 1 = moe_prophet_polish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_lomwe = {
+    index = 157
+    male = { 1 = moe_prophet_lomwe }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_xhosa = {
+    index = 158
+    male = { 1 = moe_prophet_xhosa }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_icelandic = {
+    index = 159
+    male = { 1 = moe_prophet_icelandic }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_mongo = {
+    index = 160
+    male = { 1 = moe_prophet_mongo }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_slovene = {
+    index = 161
+    male = { 1 = moe_prophet_slovene }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_estonian = {
+    index = 162
+    male = { 1 = moe_prophet_estonian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kru = {
+    index = 163
+    male = { 1 = moe_prophet_kru }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_oriya = {
+    index = 164
+    male = { 1 = moe_prophet_oriya }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_cajun = {
+    index = 165
+    male = { 1 = moe_prophet_cajun }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_hakka = {
+    index = 166
+    male = { 1 = moe_prophet_hakka }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_marathi = {
+    index = 167
+    male = { 1 = moe_prophet_marathi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sami = {
+    index = 168
+    male = { 1 = moe_prophet_sami }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_bakongo = {
+    index = 169
+    male = { 1 = moe_prophet_bakongo }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_min = {
+    index = 170
+    male = { 1 = moe_prophet_min }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_luba = {
+    index = 171
+    male = { 1 = moe_prophet_luba }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_oodham = {
+    index = 172
+    male = { 1 = moe_prophet_oodham }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_muisca = {
+    index = 173
+    male = { 1 = moe_prophet_muisca }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_pueblo = {
+    index = 174
+    male = { 1 = moe_prophet_pueblo }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_makua = {
+    index = 175
+    male = { 1 = moe_prophet_makua }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_yemenite = {
+    index = 176
+    male = { 1 = moe_prophet_yemenite }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kalmyk = {
+    index = 177
+    male = { 1 = moe_prophet_kalmyk }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_swedish = {
+    index = 178
+    male = { 1 = moe_prophet_swedish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_korean = {
+    index = 179
+    male = { 1 = moe_prophet_korean }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_yoruba = {
+    index = 180
+    male = { 1 = moe_prophet_yoruba }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_maasai = {
+    index = 181
+    male = { 1 = moe_prophet_maasai }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_manipuri = {
+    index = 182
+    male = { 1 = moe_prophet_manipuri }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_scottish = {
+    index = 183
+    male = { 1 = moe_prophet_scottish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_hazara = {
+    index = 184
+    male = { 1 = moe_prophet_hazara }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_ainu = {
+    index = 185
+    male = { 1 = moe_prophet_ainu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_latvian = {
+    index = 186
+    male = { 1 = moe_prophet_latvian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_yao = {
+    index = 187
+    male = { 1 = moe_prophet_yao }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_navajo = {
+    index = 188
+    male = { 1 = moe_prophet_navajo }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_catalan = {
+    index = 189
+    male = { 1 = moe_prophet_catalan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_hawaiian = {
+    index = 190
+    male = { 1 = moe_prophet_hawaiian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_cherokee = {
+    index = 191
+    male = { 1 = moe_prophet_cherokee }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_ruanda = {
+    index = 192
+    male = { 1 = moe_prophet_ruanda }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_guarani = {
+    index = 193
+    male = { 1 = moe_prophet_guarani }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_turkmen = {
+    index = 194
+    male = { 1 = moe_prophet_turkmen }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_breton = {
+    index = 195
+    male = { 1 = moe_prophet_breton }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_maghrebi = {
+    index = 196
+    male = { 1 = moe_prophet_maghrebi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_czech = {
+    index = 197
+    male = { 1 = moe_prophet_czech }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_georgian = {
+    index = 198
+    male = { 1 = moe_prophet_georgian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_assamese = {
+    index = 199
+    male = { 1 = moe_prophet_assamese }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_quechua = {
+    index = 200
+    male = { 1 = moe_prophet_quechua }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_north_andean = {
+    index = 201
+    male = { 1 = moe_prophet_north_andean }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_karen = {
+    index = 202
+    male = { 1 = moe_prophet_karen }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_ibo = {
+    index = 203
+    male = { 1 = moe_prophet_ibo }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_swahili = {
+    index = 204
+    male = { 1 = moe_prophet_swahili }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_galician = {
+    index = 205
+    male = { 1 = moe_prophet_galician }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_baguirmi = {
+    index = 206
+    male = { 1 = moe_prophet_baguirmi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_basque = {
+    index = 207
+    male = { 1 = moe_prophet_basque }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_misri = {
+    index = 208
+    male = { 1 = moe_prophet_misri }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kurdish = {
+    index = 209
+    male = { 1 = moe_prophet_kurdish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_japanese = {
+    index = 210
+    male = { 1 = moe_prophet_japanese }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_zulu = {
+    index = 211
+    male = { 1 = moe_prophet_zulu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kavango_bantu = {
+    index = 212
+    male = { 1 = moe_prophet_kavango_bantu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_fon = {
+    index = 213
+    male = { 1 = moe_prophet_fon }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tamil = {
+    index = 214
+    male = { 1 = moe_prophet_tamil }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_swiss = {
+    index = 215
+    male = { 1 = moe_prophet_swiss }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_afro_caribbean = {
+    index = 216
+    male = { 1 = moe_prophet_afro_caribbean }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_bambara = {
+    index = 217
+    male = { 1 = moe_prophet_bambara }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_franco_canadian = {
+    index = 218
+    male = { 1 = moe_prophet_franco_canadian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tiv = {
+    index = 219
+    male = { 1 = moe_prophet_tiv }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_azande = {
+    index = 220
+    male = { 1 = moe_prophet_azande }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_nuba = {
+    index = 221
+    male = { 1 = moe_prophet_nuba }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_yi = {
+    index = 222
+    male = { 1 = moe_prophet_yi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_miao = {
+    index = 223
+    male = { 1 = moe_prophet_miao }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tatar = {
+    index = 224
+    male = { 1 = moe_prophet_tatar }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_senufo = {
+    index = 225
+    male = { 1 = moe_prophet_senufo }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_amazonian = {
+    index = 226
+    male = { 1 = moe_prophet_amazonian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_chewa = {
+    index = 227
+    male = { 1 = moe_prophet_chewa }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kannada = {
+    index = 228
+    male = { 1 = moe_prophet_kannada }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_fulbe = {
+    index = 229
+    male = { 1 = moe_prophet_fulbe }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tuareg = {
+    index = 230
+    male = { 1 = moe_prophet_tuareg }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_micronesian = {
+    index = 231
+    male = { 1 = moe_prophet_micronesian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_filipino = {
+    index = 232
+    male = { 1 = moe_prophet_filipino }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_cree = {
+    index = 233
+    male = { 1 = moe_prophet_cree }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_turkish = {
+    index = 234
+    male = { 1 = moe_prophet_turkish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_uighur = {
+    index = 235
+    male = { 1 = moe_prophet_uighur }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_afro_brazilian = {
+    index = 236
+    male = { 1 = moe_prophet_afro_brazilian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_algonquian = {
+    index = 237
+    male = { 1 = moe_prophet_algonquian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kirgiz = {
+    index = 238
+    male = { 1 = moe_prophet_kirgiz }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_patagonian = {
+    index = 239
+    male = { 1 = moe_prophet_patagonian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_assyrian = {
+    index = 240
+    male = { 1 = moe_prophet_assyrian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_tarascan = {
+    index = 241
+    male = { 1 = moe_prophet_tarascan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_bassa = {
+    index = 242
+    male = { 1 = moe_prophet_bassa }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_platinean = {
+    index = 243
+    male = { 1 = moe_prophet_platinean }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_wolof = {
+    index = 244
+    male = { 1 = moe_prophet_wolof }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_norwegian = {
+    index = 245
+    male = { 1 = moe_prophet_norwegian }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kashmiri = {
+    index = 246
+    male = { 1 = moe_prophet_kashmiri }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_caribeno = {
+    index = 247
+    male = { 1 = moe_prophet_caribeno }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_ashkenazi = {
+    index = 248
+    male = { 1 = moe_prophet_ashkenazi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_khoisan = {
+    index = 249
+    male = { 1 = moe_prophet_khoisan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_finnish = {
+    index = 250
+    male = { 1 = moe_prophet_finnish }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_bosniak = {
+    index = 251
+    male = { 1 = moe_prophet_bosniak }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_central_american = {
+    index = 252
+    male = { 1 = moe_prophet_central_american }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_hausa = {
+    index = 253
+    male = { 1 = moe_prophet_hausa }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_lacustrine_bantu = {
+    index = 254
+    male = { 1 = moe_prophet_lacustrine_bantu }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_maltese = {
+    index = 255
+    male = { 1 = moe_prophet_maltese }
+    female = male
+    boy = male
+    girl = male
+}
+}
+		moeprops_2 = {
+moe_prophet_sindi = {
+    index = 0
+    male = { 1 = moe_prophet_sindi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_paiute = {
+    index = 1
+    male = { 1 = moe_prophet_paiute }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sukuma = {
+    index = 2
+    male = { 1 = moe_prophet_sukuma }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_lao = {
+    index = 3
+    male = { 1 = moe_prophet_lao }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_caddoan = {
+    index = 4
+    male = { 1 = moe_prophet_caddoan }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kazak = {
+    index = 5
+    male = { 1 = moe_prophet_kazak }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_berber = {
+    index = 6
+    male = { 1 = moe_prophet_berber }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_comanche = {
+    index = 7
+    male = { 1 = moe_prophet_comanche }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_kissi = {
+    index = 8
+    male = { 1 = moe_prophet_kissi }
+    female = male
+    boy = male
+    girl = male
+}
+moe_prophet_sinhala = {
+    index = 9
+    male = { 1 = moe_prophet_sinhala }
+    female = male
+    boy = male
+    girl = male
+}
+}
+}
+}

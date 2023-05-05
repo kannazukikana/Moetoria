@@ -1,0 +1,38 @@
+﻿
+
+special_genes = {
+
+	accessory_genes = {
+
+
+	#####################################
+	#									#
+	# 			  HMCLOTHES 			#
+	#									#
+	#####################################
+
+		
+		hmclothes = {
+			 no_clothes = {
+				index = 0
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = empty
+				}
+
+				# So that children always have clothes!
+				boy = {
+					1 = empty	
+				}
+				girl = {
+					1 = empty
+				}
+			}
+
+		}
+	 
+	}
+
+}

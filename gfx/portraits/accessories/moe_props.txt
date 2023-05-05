@@ -1,0 +1,799 @@
+
+moe_prophet_british = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_british_entity" }
+}
+moe_prophet_slovak = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_slovak_entity" }
+}
+moe_prophet_khmer = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_khmer_entity" }
+}
+moe_prophet_ibibio = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_ibibio_entity" }
+}
+moe_prophet_guajiro = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_guajiro_entity" }
+}
+moe_prophet_russian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_russian_entity" }
+}
+moe_prophet_tibetan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tibetan_entity" }
+}
+moe_prophet_malay = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_malay_entity" }
+}
+moe_prophet_lithuanian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_lithuanian_entity" }
+}
+moe_prophet_vietnamese = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_vietnamese_entity" }
+}
+moe_prophet_sudanese = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sudanese_entity" }
+}
+moe_prophet_sotho = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sotho_entity" }
+}
+moe_prophet_edo = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_edo_entity" }
+}
+moe_prophet_﻿welsh = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_﻿welsh_entity" }
+}
+moe_prophet_anglo_canadian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_anglo_canadian_entity" }
+}
+moe_prophet_moluccan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_moluccan_entity" }
+}
+moe_prophet_panjabi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_panjabi_entity" }
+}
+moe_prophet_shan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_shan_entity" }
+}
+moe_prophet_nepali = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_nepali_entity" }
+}
+moe_prophet_nilotic = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_nilotic_entity" }
+}
+moe_prophet_malayalam = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_malayalam_entity" }
+}
+moe_prophet_french = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_french_entity" }
+}
+moe_prophet_ewe = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_ewe_entity" }
+}
+moe_prophet_mongol = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_mongol_entity" }
+}
+moe_prophet_mon = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_mon_entity" }
+}
+moe_prophet_occitan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_occitan_entity" }
+}
+moe_prophet_maures = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_maures_entity" }
+}
+moe_prophet_akan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_akan_entity" }
+}
+moe_prophet_mexican = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_mexican_entity" }
+}
+moe_prophet_zhuang = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_zhuang_entity" }
+}
+moe_prophet_bihari = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_bihari_entity" }
+}
+moe_prophet_gujarati = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_gujarati_entity" }
+}
+moe_prophet_siouan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_siouan_entity" }
+}
+moe_prophet_inuit = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_inuit_entity" }
+}
+moe_prophet_miskito = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_miskito_entity" }
+}
+moe_prophet_hokan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_hokan_entity" }
+}
+moe_prophet_uzbek = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_uzbek_entity" }
+}
+moe_prophet_han = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_han_entity" }
+}
+moe_prophet_beja = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_beja_entity" }
+}
+moe_prophet_unyamwezi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_unyamwezi_entity" }
+}
+moe_prophet_north_italian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_north_italian_entity" }
+}
+moe_prophet_romanian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_romanian_entity" }
+}
+moe_prophet_amhara = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_amhara_entity" }
+}
+moe_prophet_south_german = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_south_german_entity" }
+}
+moe_prophet_fang = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_fang_entity" }
+}
+moe_prophet_haratin = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_haratin_entity" }
+}
+moe_prophet_bedouin = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_bedouin_entity" }
+}
+moe_prophet_south_andean = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_south_andean_entity" }
+}
+moe_prophet_north_german = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_north_german_entity" }
+}
+moe_prophet_croat = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_croat_entity" }
+}
+moe_prophet_kanuri = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kanuri_entity" }
+}
+moe_prophet_yankee = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_yankee_entity" }
+}
+moe_prophet_brazilian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_brazilian_entity" }
+}
+moe_prophet_lunda = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_lunda_entity" }
+}
+moe_prophet_dinka = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_dinka_entity" }
+}
+moe_prophet_kikuyu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kikuyu_entity" }
+}
+moe_prophet_spanish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_spanish_entity" }
+}
+moe_prophet_tuvan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tuvan_entity" }
+}
+moe_prophet_byelorussian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_byelorussian_entity" }
+}
+moe_prophet_teda = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_teda_entity" }
+}
+moe_prophet_metis = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_metis_entity" }
+}
+moe_prophet_yakut = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_yakut_entity" }
+}
+moe_prophet_tonga = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tonga_entity" }
+}
+moe_prophet_dyula = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_dyula_entity" }
+}
+moe_prophet_portuguese = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_portuguese_entity" }
+}
+moe_prophet_telegu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_telegu_entity" }
+}
+moe_prophet_aborigine = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_aborigine_entity" }
+}
+moe_prophet_balinese = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_balinese_entity" }
+}
+moe_prophet_burmese = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_burmese_entity" }
+}
+moe_prophet_songhai = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_songhai_entity" }
+}
+moe_prophet_luo = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_luo_entity" }
+}
+moe_prophet_corsican = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_corsican_entity" }
+}
+moe_prophet_yue = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_yue_entity" }
+}
+moe_prophet_bulgarian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_bulgarian_entity" }
+}
+moe_prophet_australian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_australian_entity" }
+}
+moe_prophet_herero = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_herero_entity" }
+}
+moe_prophet_muskogean = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_muskogean_entity" }
+}
+moe_prophet_somali = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_somali_entity" }
+}
+moe_prophet_nez_perce = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_nez_perce_entity" }
+}
+moe_prophet_mande = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_mande_entity" }
+}
+moe_prophet_mossi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_mossi_entity" }
+}
+moe_prophet_tupinamba = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tupinamba_entity" }
+}
+moe_prophet_sephardic = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sephardic_entity" }
+}
+moe_prophet_bornean = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_bornean_entity" }
+}
+moe_prophet_athabaskan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_athabaskan_entity" }
+}
+moe_prophet_mashriqi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_mashriqi_entity" }
+}
+moe_prophet_dayak = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_dayak_entity" }
+}
+moe_prophet_oromo = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_oromo_entity" }
+}
+moe_prophet_iroquoian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_iroquoian_entity" }
+}
+moe_prophet_kachin = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kachin_entity" }
+}
+moe_prophet_aimara = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_aimara_entity" }
+}
+moe_prophet_moro = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_moro_entity" }
+}
+moe_prophet_javan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_javan_entity" }
+}
+moe_prophet_dakota = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_dakota_entity" }
+}
+moe_prophet_cariban = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_cariban_entity" }
+}
+moe_prophet_sara = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sara_entity" }
+}
+moe_prophet_equatorial_bantu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_equatorial_bantu_entity" }
+}
+moe_prophet_circassian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_circassian_entity" }
+}
+moe_prophet_albanian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_albanian_entity" }
+}
+moe_prophet_bengali = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_bengali_entity" }
+}
+moe_prophet_tajik = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tajik_entity" }
+}
+moe_prophet_wallonian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_wallonian_entity" }
+}
+moe_prophet_azerbaijani = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_azerbaijani_entity" }
+}
+moe_prophet_rajput = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_rajput_entity" }
+}
+moe_prophet_polynesian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_polynesian_entity" }
+}
+moe_prophet_greek = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_greek_entity" }
+}
+moe_prophet_zapotec = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_zapotec_entity" }
+}
+moe_prophet_baluchi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_baluchi_entity" }
+}
+moe_prophet_armenian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_armenian_entity" }
+}
+moe_prophet_batak = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_batak_entity" }
+}
+moe_prophet_thai = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_thai_entity" }
+}
+moe_prophet_afro_american = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_afro_american_entity" }
+}
+moe_prophet_flemish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_flemish_entity" }
+}
+moe_prophet_ukrainian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_ukrainian_entity" }
+}
+moe_prophet_avadhi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_avadhi_entity" }
+}
+moe_prophet_melanesian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_melanesian_entity" }
+}
+moe_prophet_nahua = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_nahua_entity" }
+}
+moe_prophet_mixtec = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_mixtec_entity" }
+}
+moe_prophet_rundi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_rundi_entity" }
+}
+moe_prophet_siberian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_siberian_entity" }
+}
+moe_prophet_fluvian_bantu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_fluvian_bantu_entity" }
+}
+moe_prophet_tigray = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tigray_entity" }
+}
+moe_prophet_hungarian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_hungarian_entity" }
+}
+moe_prophet_boer = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_boer_entity" }
+}
+moe_prophet_salish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_salish_entity" }
+}
+moe_prophet_south_italian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_south_italian_entity" }
+}
+moe_prophet_afar = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_afar_entity" }
+}
+moe_prophet_baganda = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_baganda_entity" }
+}
+moe_prophet_maori = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_maori_entity" }
+}
+moe_prophet_malagasy = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_malagasy_entity" }
+}
+moe_prophet_nuer = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_nuer_entity" }
+}
+moe_prophet_north_caucasian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_north_caucasian_entity" }
+}
+moe_prophet_nguni = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_nguni_entity" }
+}
+moe_prophet_sidama = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sidama_entity" }
+}
+moe_prophet_sena = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sena_entity" }
+}
+moe_prophet_afro_caribeno = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_afro_caribeno_entity" }
+}
+moe_prophet_sumatran = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sumatran_entity" }
+}
+moe_prophet_fur = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_fur_entity" }
+}
+moe_prophet_apache = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_apache_entity" }
+}
+moe_prophet_mayan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_mayan_entity" }
+}
+moe_prophet_shona = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_shona_entity" }
+}
+moe_prophet_tswana = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tswana_entity" }
+}
+moe_prophet_afro_antillean = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_afro_antillean_entity" }
+}
+moe_prophet_serb = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_serb_entity" }
+}
+moe_prophet_manchu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_manchu_entity" }
+}
+moe_prophet_irish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_irish_entity" }
+}
+moe_prophet_ugrian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_ugrian_entity" }
+}
+moe_prophet_danish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_danish_entity" }
+}
+moe_prophet_pashtun = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_pashtun_entity" }
+}
+moe_prophet_kanauji = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kanauji_entity" }
+}
+moe_prophet_ovimbundu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_ovimbundu_entity" }
+}
+moe_prophet_dutch = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_dutch_entity" }
+}
+moe_prophet_persian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_persian_entity" }
+}
+moe_prophet_sorb = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sorb_entity" }
+}
+moe_prophet_khmu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_khmu_entity" }
+}
+moe_prophet_dixie = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_dixie_entity" }
+}
+moe_prophet_polish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_polish_entity" }
+}
+moe_prophet_lomwe = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_lomwe_entity" }
+}
+moe_prophet_xhosa = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_xhosa_entity" }
+}
+moe_prophet_icelandic = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_icelandic_entity" }
+}
+moe_prophet_mongo = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_mongo_entity" }
+}
+moe_prophet_slovene = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_slovene_entity" }
+}
+moe_prophet_estonian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_estonian_entity" }
+}
+moe_prophet_kru = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kru_entity" }
+}
+moe_prophet_oriya = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_oriya_entity" }
+}
+moe_prophet_cajun = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_cajun_entity" }
+}
+moe_prophet_hakka = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_hakka_entity" }
+}
+moe_prophet_marathi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_marathi_entity" }
+}
+moe_prophet_sami = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sami_entity" }
+}
+moe_prophet_bakongo = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_bakongo_entity" }
+}
+moe_prophet_min = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_min_entity" }
+}
+moe_prophet_luba = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_luba_entity" }
+}
+moe_prophet_oodham = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_oodham_entity" }
+}
+moe_prophet_muisca = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_muisca_entity" }
+}
+moe_prophet_pueblo = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_pueblo_entity" }
+}
+moe_prophet_makua = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_makua_entity" }
+}
+moe_prophet_yemenite = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_yemenite_entity" }
+}
+moe_prophet_kalmyk = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kalmyk_entity" }
+}
+moe_prophet_swedish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_swedish_entity" }
+}
+moe_prophet_korean = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_korean_entity" }
+}
+moe_prophet_yoruba = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_yoruba_entity" }
+}
+moe_prophet_maasai = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_maasai_entity" }
+}
+moe_prophet_manipuri = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_manipuri_entity" }
+}
+moe_prophet_scottish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_scottish_entity" }
+}
+moe_prophet_hazara = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_hazara_entity" }
+}
+moe_prophet_ainu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_ainu_entity" }
+}
+moe_prophet_latvian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_latvian_entity" }
+}
+moe_prophet_yao = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_yao_entity" }
+}
+moe_prophet_navajo = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_navajo_entity" }
+}
+moe_prophet_catalan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_catalan_entity" }
+}
+moe_prophet_hawaiian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_hawaiian_entity" }
+}
+moe_prophet_cherokee = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_cherokee_entity" }
+}
+moe_prophet_ruanda = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_ruanda_entity" }
+}
+moe_prophet_guarani = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_guarani_entity" }
+}
+moe_prophet_turkmen = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_turkmen_entity" }
+}
+moe_prophet_breton = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_breton_entity" }
+}
+moe_prophet_maghrebi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_maghrebi_entity" }
+}
+moe_prophet_czech = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_czech_entity" }
+}
+moe_prophet_georgian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_georgian_entity" }
+}
+moe_prophet_assamese = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_assamese_entity" }
+}
+moe_prophet_quechua = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_quechua_entity" }
+}
+moe_prophet_north_andean = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_north_andean_entity" }
+}
+moe_prophet_karen = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_karen_entity" }
+}
+moe_prophet_ibo = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_ibo_entity" }
+}
+moe_prophet_swahili = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_swahili_entity" }
+}
+moe_prophet_galician = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_galician_entity" }
+}
+moe_prophet_baguirmi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_baguirmi_entity" }
+}
+moe_prophet_basque = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_basque_entity" }
+}
+moe_prophet_misri = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_misri_entity" }
+}
+moe_prophet_kurdish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kurdish_entity" }
+}
+moe_prophet_japanese = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_japanese_entity" }
+}
+moe_prophet_zulu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_zulu_entity" }
+}
+moe_prophet_kavango_bantu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kavango_bantu_entity" }
+}
+moe_prophet_fon = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_fon_entity" }
+}
+moe_prophet_tamil = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tamil_entity" }
+}
+moe_prophet_swiss = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_swiss_entity" }
+}
+moe_prophet_afro_caribbean = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_afro_caribbean_entity" }
+}
+moe_prophet_bambara = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_bambara_entity" }
+}
+moe_prophet_franco_canadian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_franco_canadian_entity" }
+}
+moe_prophet_tiv = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tiv_entity" }
+}
+moe_prophet_azande = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_azande_entity" }
+}
+moe_prophet_nuba = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_nuba_entity" }
+}
+moe_prophet_yi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_yi_entity" }
+}
+moe_prophet_miao = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_miao_entity" }
+}
+moe_prophet_tatar = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tatar_entity" }
+}
+moe_prophet_senufo = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_senufo_entity" }
+}
+moe_prophet_amazonian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_amazonian_entity" }
+}
+moe_prophet_chewa = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_chewa_entity" }
+}
+moe_prophet_kannada = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kannada_entity" }
+}
+moe_prophet_fulbe = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_fulbe_entity" }
+}
+moe_prophet_tuareg = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tuareg_entity" }
+}
+moe_prophet_micronesian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_micronesian_entity" }
+}
+moe_prophet_filipino = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_filipino_entity" }
+}
+moe_prophet_cree = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_cree_entity" }
+}
+moe_prophet_turkish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_turkish_entity" }
+}
+moe_prophet_uighur = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_uighur_entity" }
+}
+moe_prophet_afro_brazilian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_afro_brazilian_entity" }
+}
+moe_prophet_algonquian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_algonquian_entity" }
+}
+moe_prophet_kirgiz = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kirgiz_entity" }
+}
+moe_prophet_patagonian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_patagonian_entity" }
+}
+moe_prophet_assyrian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_assyrian_entity" }
+}
+moe_prophet_tarascan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_tarascan_entity" }
+}
+moe_prophet_bassa = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_bassa_entity" }
+}
+moe_prophet_platinean = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_platinean_entity" }
+}
+moe_prophet_wolof = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_wolof_entity" }
+}
+moe_prophet_norwegian = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_norwegian_entity" }
+}
+moe_prophet_kashmiri = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kashmiri_entity" }
+}
+moe_prophet_caribeno = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_caribeno_entity" }
+}
+moe_prophet_ashkenazi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_ashkenazi_entity" }
+}
+moe_prophet_khoisan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_khoisan_entity" }
+}
+moe_prophet_finnish = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_finnish_entity" }
+}
+moe_prophet_bosniak = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_bosniak_entity" }
+}
+moe_prophet_central_american = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_central_american_entity" }
+}
+moe_prophet_hausa = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_hausa_entity" }
+}
+moe_prophet_lacustrine_bantu = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_lacustrine_bantu_entity" }
+}
+moe_prophet_maltese = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_maltese_entity" }
+}
+moe_prophet_sindi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sindi_entity" }
+}
+moe_prophet_paiute = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_paiute_entity" }
+}
+moe_prophet_sukuma = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sukuma_entity" }
+}
+moe_prophet_lao = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_lao_entity" }
+}
+moe_prophet_caddoan = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_caddoan_entity" }
+}
+moe_prophet_kazak = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kazak_entity" }
+}
+moe_prophet_berber = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_berber_entity" }
+}
+moe_prophet_comanche = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_comanche_entity" }
+}
+moe_prophet_kissi = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_kissi_entity" }
+}
+moe_prophet_sinhala = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_sinhala_entity" }
+}

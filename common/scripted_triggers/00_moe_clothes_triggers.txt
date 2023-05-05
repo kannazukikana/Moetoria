@@ -1,0 +1,3194 @@
+
+moe_clothes_british_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:british
+	}
+}
+moe_clothes_pop_british_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:british
+	}
+}
+moe_clothes_slovak_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:slovak
+	}
+}
+moe_clothes_pop_slovak_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:slovak
+	}
+}
+moe_clothes_khmer_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:khmer
+	}
+}
+moe_clothes_pop_khmer_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:khmer
+	}
+}
+moe_clothes_ibibio_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:ibibio
+	}
+}
+moe_clothes_pop_ibibio_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:ibibio
+	}
+}
+moe_clothes_guajiro_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:guajiro
+	}
+}
+moe_clothes_pop_guajiro_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:guajiro
+	}
+}
+moe_clothes_russian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:russian
+	}
+}
+moe_clothes_pop_russian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:russian
+	}
+}
+moe_clothes_tibetan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tibetan
+	}
+}
+moe_clothes_pop_tibetan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tibetan
+	}
+}
+moe_clothes_malay_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:malay
+	}
+}
+moe_clothes_pop_malay_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:malay
+	}
+}
+moe_clothes_lithuanian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:lithuanian
+	}
+}
+moe_clothes_pop_lithuanian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:lithuanian
+	}
+}
+moe_clothes_vietnamese_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:vietnamese
+	}
+}
+moe_clothes_pop_vietnamese_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:vietnamese
+	}
+}
+moe_clothes_sudanese_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sudanese
+	}
+}
+moe_clothes_pop_sudanese_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sudanese
+	}
+}
+moe_clothes_sotho_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sotho
+	}
+}
+moe_clothes_pop_sotho_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sotho
+	}
+}
+moe_clothes_edo_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:edo
+	}
+}
+moe_clothes_pop_edo_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:edo
+	}
+}
+moe_clothes_﻿welsh_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:﻿welsh
+	}
+}
+moe_clothes_pop_﻿welsh_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:﻿welsh
+	}
+}
+moe_clothes_anglo_canadian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:anglo_canadian
+	}
+}
+moe_clothes_pop_anglo_canadian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:anglo_canadian
+	}
+}
+moe_clothes_moluccan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:moluccan
+	}
+}
+moe_clothes_pop_moluccan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:moluccan
+	}
+}
+moe_clothes_panjabi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:panjabi
+	}
+}
+moe_clothes_pop_panjabi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:panjabi
+	}
+}
+moe_clothes_shan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:shan
+	}
+}
+moe_clothes_pop_shan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:shan
+	}
+}
+moe_clothes_nepali_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:nepali
+	}
+}
+moe_clothes_pop_nepali_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:nepali
+	}
+}
+moe_clothes_nilotic_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:nilotic
+	}
+}
+moe_clothes_pop_nilotic_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:nilotic
+	}
+}
+moe_clothes_malayalam_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:malayalam
+	}
+}
+moe_clothes_pop_malayalam_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:malayalam
+	}
+}
+moe_clothes_french_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:french
+	}
+}
+moe_clothes_pop_french_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:french
+	}
+}
+moe_clothes_ewe_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:ewe
+	}
+}
+moe_clothes_pop_ewe_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:ewe
+	}
+}
+moe_clothes_mongol_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:mongol
+	}
+}
+moe_clothes_pop_mongol_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:mongol
+	}
+}
+moe_clothes_mon_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:mon
+	}
+}
+moe_clothes_pop_mon_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:mon
+	}
+}
+moe_clothes_occitan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:occitan
+	}
+}
+moe_clothes_pop_occitan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:occitan
+	}
+}
+moe_clothes_maures_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:maures
+	}
+}
+moe_clothes_pop_maures_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:maures
+	}
+}
+moe_clothes_akan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:akan
+	}
+}
+moe_clothes_pop_akan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:akan
+	}
+}
+moe_clothes_mexican_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:mexican
+	}
+}
+moe_clothes_pop_mexican_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:mexican
+	}
+}
+moe_clothes_zhuang_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:zhuang
+	}
+}
+moe_clothes_pop_zhuang_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:zhuang
+	}
+}
+moe_clothes_bihari_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:bihari
+	}
+}
+moe_clothes_pop_bihari_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:bihari
+	}
+}
+moe_clothes_gujarati_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:gujarati
+	}
+}
+moe_clothes_pop_gujarati_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:gujarati
+	}
+}
+moe_clothes_siouan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:siouan
+	}
+}
+moe_clothes_pop_siouan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:siouan
+	}
+}
+moe_clothes_inuit_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:inuit
+	}
+}
+moe_clothes_pop_inuit_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:inuit
+	}
+}
+moe_clothes_miskito_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:miskito
+	}
+}
+moe_clothes_pop_miskito_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:miskito
+	}
+}
+moe_clothes_hokan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:hokan
+	}
+}
+moe_clothes_pop_hokan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:hokan
+	}
+}
+moe_clothes_uzbek_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:uzbek
+	}
+}
+moe_clothes_pop_uzbek_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:uzbek
+	}
+}
+moe_clothes_han_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:han
+	}
+}
+moe_clothes_pop_han_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:han
+	}
+}
+moe_clothes_beja_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:beja
+	}
+}
+moe_clothes_pop_beja_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:beja
+	}
+}
+moe_clothes_unyamwezi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:unyamwezi
+	}
+}
+moe_clothes_pop_unyamwezi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:unyamwezi
+	}
+}
+moe_clothes_north_italian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:north_italian
+	}
+}
+moe_clothes_pop_north_italian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:north_italian
+	}
+}
+moe_clothes_romanian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:romanian
+	}
+}
+moe_clothes_pop_romanian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:romanian
+	}
+}
+moe_clothes_amhara_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:amhara
+	}
+}
+moe_clothes_pop_amhara_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:amhara
+	}
+}
+moe_clothes_south_german_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:south_german
+	}
+}
+moe_clothes_pop_south_german_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:south_german
+	}
+}
+moe_clothes_fang_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:fang
+	}
+}
+moe_clothes_pop_fang_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:fang
+	}
+}
+moe_clothes_haratin_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:haratin
+	}
+}
+moe_clothes_pop_haratin_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:haratin
+	}
+}
+moe_clothes_bedouin_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:bedouin
+	}
+}
+moe_clothes_pop_bedouin_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:bedouin
+	}
+}
+moe_clothes_south_andean_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:south_andean
+	}
+}
+moe_clothes_pop_south_andean_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:south_andean
+	}
+}
+moe_clothes_north_german_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:north_german
+	}
+}
+moe_clothes_pop_north_german_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:north_german
+	}
+}
+moe_clothes_croat_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:croat
+	}
+}
+moe_clothes_pop_croat_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:croat
+	}
+}
+moe_clothes_kanuri_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kanuri
+	}
+}
+moe_clothes_pop_kanuri_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kanuri
+	}
+}
+moe_clothes_yankee_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:yankee
+	}
+}
+moe_clothes_pop_yankee_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:yankee
+	}
+}
+moe_clothes_brazilian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:brazilian
+	}
+}
+moe_clothes_pop_brazilian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:brazilian
+	}
+}
+moe_clothes_lunda_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:lunda
+	}
+}
+moe_clothes_pop_lunda_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:lunda
+	}
+}
+moe_clothes_dinka_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:dinka
+	}
+}
+moe_clothes_pop_dinka_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:dinka
+	}
+}
+moe_clothes_kikuyu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kikuyu
+	}
+}
+moe_clothes_pop_kikuyu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kikuyu
+	}
+}
+moe_clothes_spanish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:spanish
+	}
+}
+moe_clothes_pop_spanish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:spanish
+	}
+}
+moe_clothes_tuvan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tuvan
+	}
+}
+moe_clothes_pop_tuvan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tuvan
+	}
+}
+moe_clothes_byelorussian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:byelorussian
+	}
+}
+moe_clothes_pop_byelorussian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:byelorussian
+	}
+}
+moe_clothes_teda_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:teda
+	}
+}
+moe_clothes_pop_teda_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:teda
+	}
+}
+moe_clothes_metis_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:metis
+	}
+}
+moe_clothes_pop_metis_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:metis
+	}
+}
+moe_clothes_yakut_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:yakut
+	}
+}
+moe_clothes_pop_yakut_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:yakut
+	}
+}
+moe_clothes_tonga_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tonga
+	}
+}
+moe_clothes_pop_tonga_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tonga
+	}
+}
+moe_clothes_dyula_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:dyula
+	}
+}
+moe_clothes_pop_dyula_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:dyula
+	}
+}
+moe_clothes_portuguese_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:portuguese
+	}
+}
+moe_clothes_pop_portuguese_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:portuguese
+	}
+}
+moe_clothes_telegu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:telegu
+	}
+}
+moe_clothes_pop_telegu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:telegu
+	}
+}
+moe_clothes_aborigine_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:aborigine
+	}
+}
+moe_clothes_pop_aborigine_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:aborigine
+	}
+}
+moe_clothes_balinese_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:balinese
+	}
+}
+moe_clothes_pop_balinese_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:balinese
+	}
+}
+moe_clothes_burmese_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:burmese
+	}
+}
+moe_clothes_pop_burmese_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:burmese
+	}
+}
+moe_clothes_songhai_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:songhai
+	}
+}
+moe_clothes_pop_songhai_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:songhai
+	}
+}
+moe_clothes_luo_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:luo
+	}
+}
+moe_clothes_pop_luo_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:luo
+	}
+}
+moe_clothes_corsican_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:corsican
+	}
+}
+moe_clothes_pop_corsican_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:corsican
+	}
+}
+moe_clothes_yue_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:yue
+	}
+}
+moe_clothes_pop_yue_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:yue
+	}
+}
+moe_clothes_bulgarian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:bulgarian
+	}
+}
+moe_clothes_pop_bulgarian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:bulgarian
+	}
+}
+moe_clothes_australian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:australian
+	}
+}
+moe_clothes_pop_australian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:australian
+	}
+}
+moe_clothes_herero_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:herero
+	}
+}
+moe_clothes_pop_herero_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:herero
+	}
+}
+moe_clothes_muskogean_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:muskogean
+	}
+}
+moe_clothes_pop_muskogean_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:muskogean
+	}
+}
+moe_clothes_somali_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:somali
+	}
+}
+moe_clothes_pop_somali_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:somali
+	}
+}
+moe_clothes_nez_perce_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:nez_perce
+	}
+}
+moe_clothes_pop_nez_perce_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:nez_perce
+	}
+}
+moe_clothes_mande_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:mande
+	}
+}
+moe_clothes_pop_mande_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:mande
+	}
+}
+moe_clothes_mossi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:mossi
+	}
+}
+moe_clothes_pop_mossi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:mossi
+	}
+}
+moe_clothes_tupinamba_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tupinamba
+	}
+}
+moe_clothes_pop_tupinamba_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tupinamba
+	}
+}
+moe_clothes_sephardic_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sephardic
+	}
+}
+moe_clothes_pop_sephardic_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sephardic
+	}
+}
+moe_clothes_bornean_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:bornean
+	}
+}
+moe_clothes_pop_bornean_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:bornean
+	}
+}
+moe_clothes_athabaskan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:athabaskan
+	}
+}
+moe_clothes_pop_athabaskan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:athabaskan
+	}
+}
+moe_clothes_mashriqi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:mashriqi
+	}
+}
+moe_clothes_pop_mashriqi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:mashriqi
+	}
+}
+moe_clothes_dayak_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:dayak
+	}
+}
+moe_clothes_pop_dayak_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:dayak
+	}
+}
+moe_clothes_oromo_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:oromo
+	}
+}
+moe_clothes_pop_oromo_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:oromo
+	}
+}
+moe_clothes_iroquoian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:iroquoian
+	}
+}
+moe_clothes_pop_iroquoian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:iroquoian
+	}
+}
+moe_clothes_kachin_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kachin
+	}
+}
+moe_clothes_pop_kachin_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kachin
+	}
+}
+moe_clothes_aimara_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:aimara
+	}
+}
+moe_clothes_pop_aimara_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:aimara
+	}
+}
+moe_clothes_moro_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:moro
+	}
+}
+moe_clothes_pop_moro_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:moro
+	}
+}
+moe_clothes_javan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:javan
+	}
+}
+moe_clothes_pop_javan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:javan
+	}
+}
+moe_clothes_dakota_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:dakota
+	}
+}
+moe_clothes_pop_dakota_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:dakota
+	}
+}
+moe_clothes_cariban_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:cariban
+	}
+}
+moe_clothes_pop_cariban_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:cariban
+	}
+}
+moe_clothes_sara_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sara
+	}
+}
+moe_clothes_pop_sara_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sara
+	}
+}
+moe_clothes_equatorial_bantu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:equatorial_bantu
+	}
+}
+moe_clothes_pop_equatorial_bantu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:equatorial_bantu
+	}
+}
+moe_clothes_circassian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:circassian
+	}
+}
+moe_clothes_pop_circassian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:circassian
+	}
+}
+moe_clothes_albanian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:albanian
+	}
+}
+moe_clothes_pop_albanian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:albanian
+	}
+}
+moe_clothes_bengali_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:bengali
+	}
+}
+moe_clothes_pop_bengali_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:bengali
+	}
+}
+moe_clothes_tajik_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tajik
+	}
+}
+moe_clothes_pop_tajik_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tajik
+	}
+}
+moe_clothes_wallonian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:wallonian
+	}
+}
+moe_clothes_pop_wallonian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:wallonian
+	}
+}
+moe_clothes_azerbaijani_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:azerbaijani
+	}
+}
+moe_clothes_pop_azerbaijani_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:azerbaijani
+	}
+}
+moe_clothes_rajput_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:rajput
+	}
+}
+moe_clothes_pop_rajput_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:rajput
+	}
+}
+moe_clothes_polynesian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:polynesian
+	}
+}
+moe_clothes_pop_polynesian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:polynesian
+	}
+}
+moe_clothes_greek_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:greek
+	}
+}
+moe_clothes_pop_greek_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:greek
+	}
+}
+moe_clothes_zapotec_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:zapotec
+	}
+}
+moe_clothes_pop_zapotec_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:zapotec
+	}
+}
+moe_clothes_baluchi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:baluchi
+	}
+}
+moe_clothes_pop_baluchi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:baluchi
+	}
+}
+moe_clothes_armenian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:armenian
+	}
+}
+moe_clothes_pop_armenian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:armenian
+	}
+}
+moe_clothes_batak_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:batak
+	}
+}
+moe_clothes_pop_batak_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:batak
+	}
+}
+moe_clothes_thai_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:thai
+	}
+}
+moe_clothes_pop_thai_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:thai
+	}
+}
+moe_clothes_afro_american_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:afro_american
+	}
+}
+moe_clothes_pop_afro_american_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:afro_american
+	}
+}
+moe_clothes_flemish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:flemish
+	}
+}
+moe_clothes_pop_flemish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:flemish
+	}
+}
+moe_clothes_ukrainian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:ukrainian
+	}
+}
+moe_clothes_pop_ukrainian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:ukrainian
+	}
+}
+moe_clothes_avadhi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:avadhi
+	}
+}
+moe_clothes_pop_avadhi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:avadhi
+	}
+}
+moe_clothes_melanesian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:melanesian
+	}
+}
+moe_clothes_pop_melanesian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:melanesian
+	}
+}
+moe_clothes_nahua_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:nahua
+	}
+}
+moe_clothes_pop_nahua_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:nahua
+	}
+}
+moe_clothes_mixtec_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:mixtec
+	}
+}
+moe_clothes_pop_mixtec_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:mixtec
+	}
+}
+moe_clothes_rundi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:rundi
+	}
+}
+moe_clothes_pop_rundi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:rundi
+	}
+}
+moe_clothes_siberian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:siberian
+	}
+}
+moe_clothes_pop_siberian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:siberian
+	}
+}
+moe_clothes_fluvian_bantu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:fluvian_bantu
+	}
+}
+moe_clothes_pop_fluvian_bantu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:fluvian_bantu
+	}
+}
+moe_clothes_tigray_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tigray
+	}
+}
+moe_clothes_pop_tigray_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tigray
+	}
+}
+moe_clothes_hungarian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:hungarian
+	}
+}
+moe_clothes_pop_hungarian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:hungarian
+	}
+}
+moe_clothes_boer_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:boer
+	}
+}
+moe_clothes_pop_boer_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:boer
+	}
+}
+moe_clothes_salish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:salish
+	}
+}
+moe_clothes_pop_salish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:salish
+	}
+}
+moe_clothes_south_italian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:south_italian
+	}
+}
+moe_clothes_pop_south_italian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:south_italian
+	}
+}
+moe_clothes_afar_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:afar
+	}
+}
+moe_clothes_pop_afar_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:afar
+	}
+}
+moe_clothes_baganda_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:baganda
+	}
+}
+moe_clothes_pop_baganda_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:baganda
+	}
+}
+moe_clothes_maori_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:maori
+	}
+}
+moe_clothes_pop_maori_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:maori
+	}
+}
+moe_clothes_malagasy_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:malagasy
+	}
+}
+moe_clothes_pop_malagasy_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:malagasy
+	}
+}
+moe_clothes_nuer_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:nuer
+	}
+}
+moe_clothes_pop_nuer_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:nuer
+	}
+}
+moe_clothes_north_caucasian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:north_caucasian
+	}
+}
+moe_clothes_pop_north_caucasian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:north_caucasian
+	}
+}
+moe_clothes_nguni_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:nguni
+	}
+}
+moe_clothes_pop_nguni_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:nguni
+	}
+}
+moe_clothes_sidama_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sidama
+	}
+}
+moe_clothes_pop_sidama_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sidama
+	}
+}
+moe_clothes_sena_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sena
+	}
+}
+moe_clothes_pop_sena_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sena
+	}
+}
+moe_clothes_afro_caribeno_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:afro_caribeno
+	}
+}
+moe_clothes_pop_afro_caribeno_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:afro_caribeno
+	}
+}
+moe_clothes_sumatran_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sumatran
+	}
+}
+moe_clothes_pop_sumatran_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sumatran
+	}
+}
+moe_clothes_fur_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:fur
+	}
+}
+moe_clothes_pop_fur_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:fur
+	}
+}
+moe_clothes_apache_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:apache
+	}
+}
+moe_clothes_pop_apache_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:apache
+	}
+}
+moe_clothes_mayan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:mayan
+	}
+}
+moe_clothes_pop_mayan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:mayan
+	}
+}
+moe_clothes_shona_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:shona
+	}
+}
+moe_clothes_pop_shona_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:shona
+	}
+}
+moe_clothes_tswana_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tswana
+	}
+}
+moe_clothes_pop_tswana_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tswana
+	}
+}
+moe_clothes_afro_antillean_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:afro_antillean
+	}
+}
+moe_clothes_pop_afro_antillean_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:afro_antillean
+	}
+}
+moe_clothes_serb_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:serb
+	}
+}
+moe_clothes_pop_serb_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:serb
+	}
+}
+moe_clothes_manchu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:manchu
+	}
+}
+moe_clothes_pop_manchu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:manchu
+	}
+}
+moe_clothes_irish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:irish
+	}
+}
+moe_clothes_pop_irish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:irish
+	}
+}
+moe_clothes_ugrian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:ugrian
+	}
+}
+moe_clothes_pop_ugrian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:ugrian
+	}
+}
+moe_clothes_danish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:danish
+	}
+}
+moe_clothes_pop_danish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:danish
+	}
+}
+moe_clothes_pashtun_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:pashtun
+	}
+}
+moe_clothes_pop_pashtun_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:pashtun
+	}
+}
+moe_clothes_kanauji_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kanauji
+	}
+}
+moe_clothes_pop_kanauji_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kanauji
+	}
+}
+moe_clothes_ovimbundu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:ovimbundu
+	}
+}
+moe_clothes_pop_ovimbundu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:ovimbundu
+	}
+}
+moe_clothes_dutch_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:dutch
+	}
+}
+moe_clothes_pop_dutch_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:dutch
+	}
+}
+moe_clothes_persian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:persian
+	}
+}
+moe_clothes_pop_persian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:persian
+	}
+}
+moe_clothes_sorb_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sorb
+	}
+}
+moe_clothes_pop_sorb_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sorb
+	}
+}
+moe_clothes_khmu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:khmu
+	}
+}
+moe_clothes_pop_khmu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:khmu
+	}
+}
+moe_clothes_dixie_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:dixie
+	}
+}
+moe_clothes_pop_dixie_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:dixie
+	}
+}
+moe_clothes_polish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:polish
+	}
+}
+moe_clothes_pop_polish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:polish
+	}
+}
+moe_clothes_lomwe_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:lomwe
+	}
+}
+moe_clothes_pop_lomwe_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:lomwe
+	}
+}
+moe_clothes_xhosa_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:xhosa
+	}
+}
+moe_clothes_pop_xhosa_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:xhosa
+	}
+}
+moe_clothes_icelandic_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:icelandic
+	}
+}
+moe_clothes_pop_icelandic_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:icelandic
+	}
+}
+moe_clothes_mongo_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:mongo
+	}
+}
+moe_clothes_pop_mongo_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:mongo
+	}
+}
+moe_clothes_slovene_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:slovene
+	}
+}
+moe_clothes_pop_slovene_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:slovene
+	}
+}
+moe_clothes_estonian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:estonian
+	}
+}
+moe_clothes_pop_estonian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:estonian
+	}
+}
+moe_clothes_kru_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kru
+	}
+}
+moe_clothes_pop_kru_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kru
+	}
+}
+moe_clothes_oriya_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:oriya
+	}
+}
+moe_clothes_pop_oriya_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:oriya
+	}
+}
+moe_clothes_cajun_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:cajun
+	}
+}
+moe_clothes_pop_cajun_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:cajun
+	}
+}
+moe_clothes_hakka_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:hakka
+	}
+}
+moe_clothes_pop_hakka_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:hakka
+	}
+}
+moe_clothes_marathi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:marathi
+	}
+}
+moe_clothes_pop_marathi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:marathi
+	}
+}
+moe_clothes_sami_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sami
+	}
+}
+moe_clothes_pop_sami_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sami
+	}
+}
+moe_clothes_bakongo_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:bakongo
+	}
+}
+moe_clothes_pop_bakongo_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:bakongo
+	}
+}
+moe_clothes_min_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:min
+	}
+}
+moe_clothes_pop_min_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:min
+	}
+}
+moe_clothes_luba_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:luba
+	}
+}
+moe_clothes_pop_luba_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:luba
+	}
+}
+moe_clothes_oodham_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:oodham
+	}
+}
+moe_clothes_pop_oodham_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:oodham
+	}
+}
+moe_clothes_muisca_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:muisca
+	}
+}
+moe_clothes_pop_muisca_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:muisca
+	}
+}
+moe_clothes_pueblo_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:pueblo
+	}
+}
+moe_clothes_pop_pueblo_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:pueblo
+	}
+}
+moe_clothes_makua_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:makua
+	}
+}
+moe_clothes_pop_makua_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:makua
+	}
+}
+moe_clothes_yemenite_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:yemenite
+	}
+}
+moe_clothes_pop_yemenite_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:yemenite
+	}
+}
+moe_clothes_kalmyk_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kalmyk
+	}
+}
+moe_clothes_pop_kalmyk_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kalmyk
+	}
+}
+moe_clothes_swedish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:swedish
+	}
+}
+moe_clothes_pop_swedish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:swedish
+	}
+}
+moe_clothes_korean_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:korean
+	}
+}
+moe_clothes_pop_korean_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:korean
+	}
+}
+moe_clothes_yoruba_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:yoruba
+	}
+}
+moe_clothes_pop_yoruba_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:yoruba
+	}
+}
+moe_clothes_maasai_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:maasai
+	}
+}
+moe_clothes_pop_maasai_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:maasai
+	}
+}
+moe_clothes_manipuri_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:manipuri
+	}
+}
+moe_clothes_pop_manipuri_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:manipuri
+	}
+}
+moe_clothes_scottish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:scottish
+	}
+}
+moe_clothes_pop_scottish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:scottish
+	}
+}
+moe_clothes_hazara_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:hazara
+	}
+}
+moe_clothes_pop_hazara_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:hazara
+	}
+}
+moe_clothes_ainu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:ainu
+	}
+}
+moe_clothes_pop_ainu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:ainu
+	}
+}
+moe_clothes_latvian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:latvian
+	}
+}
+moe_clothes_pop_latvian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:latvian
+	}
+}
+moe_clothes_yao_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:yao
+	}
+}
+moe_clothes_pop_yao_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:yao
+	}
+}
+moe_clothes_navajo_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:navajo
+	}
+}
+moe_clothes_pop_navajo_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:navajo
+	}
+}
+moe_clothes_catalan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:catalan
+	}
+}
+moe_clothes_pop_catalan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:catalan
+	}
+}
+moe_clothes_hawaiian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:hawaiian
+	}
+}
+moe_clothes_pop_hawaiian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:hawaiian
+	}
+}
+moe_clothes_cherokee_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:cherokee
+	}
+}
+moe_clothes_pop_cherokee_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:cherokee
+	}
+}
+moe_clothes_ruanda_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:ruanda
+	}
+}
+moe_clothes_pop_ruanda_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:ruanda
+	}
+}
+moe_clothes_guarani_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:guarani
+	}
+}
+moe_clothes_pop_guarani_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:guarani
+	}
+}
+moe_clothes_turkmen_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:turkmen
+	}
+}
+moe_clothes_pop_turkmen_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:turkmen
+	}
+}
+moe_clothes_breton_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:breton
+	}
+}
+moe_clothes_pop_breton_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:breton
+	}
+}
+moe_clothes_maghrebi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:maghrebi
+	}
+}
+moe_clothes_pop_maghrebi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:maghrebi
+	}
+}
+moe_clothes_czech_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:czech
+	}
+}
+moe_clothes_pop_czech_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:czech
+	}
+}
+moe_clothes_georgian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:georgian
+	}
+}
+moe_clothes_pop_georgian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:georgian
+	}
+}
+moe_clothes_assamese_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:assamese
+	}
+}
+moe_clothes_pop_assamese_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:assamese
+	}
+}
+moe_clothes_quechua_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:quechua
+	}
+}
+moe_clothes_pop_quechua_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:quechua
+	}
+}
+moe_clothes_north_andean_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:north_andean
+	}
+}
+moe_clothes_pop_north_andean_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:north_andean
+	}
+}
+moe_clothes_karen_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:karen
+	}
+}
+moe_clothes_pop_karen_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:karen
+	}
+}
+moe_clothes_ibo_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:ibo
+	}
+}
+moe_clothes_pop_ibo_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:ibo
+	}
+}
+moe_clothes_swahili_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:swahili
+	}
+}
+moe_clothes_pop_swahili_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:swahili
+	}
+}
+moe_clothes_galician_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:galician
+	}
+}
+moe_clothes_pop_galician_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:galician
+	}
+}
+moe_clothes_baguirmi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:baguirmi
+	}
+}
+moe_clothes_pop_baguirmi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:baguirmi
+	}
+}
+moe_clothes_basque_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:basque
+	}
+}
+moe_clothes_pop_basque_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:basque
+	}
+}
+moe_clothes_misri_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:misri
+	}
+}
+moe_clothes_pop_misri_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:misri
+	}
+}
+moe_clothes_kurdish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kurdish
+	}
+}
+moe_clothes_pop_kurdish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kurdish
+	}
+}
+moe_clothes_japanese_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:japanese
+	}
+}
+moe_clothes_pop_japanese_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:japanese
+	}
+}
+moe_clothes_zulu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:zulu
+	}
+}
+moe_clothes_pop_zulu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:zulu
+	}
+}
+moe_clothes_kavango_bantu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kavango_bantu
+	}
+}
+moe_clothes_pop_kavango_bantu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kavango_bantu
+	}
+}
+moe_clothes_fon_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:fon
+	}
+}
+moe_clothes_pop_fon_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:fon
+	}
+}
+moe_clothes_tamil_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tamil
+	}
+}
+moe_clothes_pop_tamil_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tamil
+	}
+}
+moe_clothes_swiss_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:swiss
+	}
+}
+moe_clothes_pop_swiss_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:swiss
+	}
+}
+moe_clothes_afro_caribbean_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:afro_caribbean
+	}
+}
+moe_clothes_pop_afro_caribbean_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:afro_caribbean
+	}
+}
+moe_clothes_bambara_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:bambara
+	}
+}
+moe_clothes_pop_bambara_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:bambara
+	}
+}
+moe_clothes_franco_canadian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:franco_canadian
+	}
+}
+moe_clothes_pop_franco_canadian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:franco_canadian
+	}
+}
+moe_clothes_tiv_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tiv
+	}
+}
+moe_clothes_pop_tiv_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tiv
+	}
+}
+moe_clothes_azande_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:azande
+	}
+}
+moe_clothes_pop_azande_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:azande
+	}
+}
+moe_clothes_nuba_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:nuba
+	}
+}
+moe_clothes_pop_nuba_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:nuba
+	}
+}
+moe_clothes_yi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:yi
+	}
+}
+moe_clothes_pop_yi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:yi
+	}
+}
+moe_clothes_miao_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:miao
+	}
+}
+moe_clothes_pop_miao_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:miao
+	}
+}
+moe_clothes_tatar_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tatar
+	}
+}
+moe_clothes_pop_tatar_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tatar
+	}
+}
+moe_clothes_senufo_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:senufo
+	}
+}
+moe_clothes_pop_senufo_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:senufo
+	}
+}
+moe_clothes_amazonian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:amazonian
+	}
+}
+moe_clothes_pop_amazonian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:amazonian
+	}
+}
+moe_clothes_chewa_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:chewa
+	}
+}
+moe_clothes_pop_chewa_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:chewa
+	}
+}
+moe_clothes_kannada_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kannada
+	}
+}
+moe_clothes_pop_kannada_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kannada
+	}
+}
+moe_clothes_fulbe_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:fulbe
+	}
+}
+moe_clothes_pop_fulbe_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:fulbe
+	}
+}
+moe_clothes_tuareg_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tuareg
+	}
+}
+moe_clothes_pop_tuareg_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tuareg
+	}
+}
+moe_clothes_micronesian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:micronesian
+	}
+}
+moe_clothes_pop_micronesian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:micronesian
+	}
+}
+moe_clothes_filipino_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:filipino
+	}
+}
+moe_clothes_pop_filipino_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:filipino
+	}
+}
+moe_clothes_cree_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:cree
+	}
+}
+moe_clothes_pop_cree_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:cree
+	}
+}
+moe_clothes_turkish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:turkish
+	}
+}
+moe_clothes_pop_turkish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:turkish
+	}
+}
+moe_clothes_uighur_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:uighur
+	}
+}
+moe_clothes_pop_uighur_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:uighur
+	}
+}
+moe_clothes_afro_brazilian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:afro_brazilian
+	}
+}
+moe_clothes_pop_afro_brazilian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:afro_brazilian
+	}
+}
+moe_clothes_algonquian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:algonquian
+	}
+}
+moe_clothes_pop_algonquian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:algonquian
+	}
+}
+moe_clothes_kirgiz_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kirgiz
+	}
+}
+moe_clothes_pop_kirgiz_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kirgiz
+	}
+}
+moe_clothes_patagonian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:patagonian
+	}
+}
+moe_clothes_pop_patagonian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:patagonian
+	}
+}
+moe_clothes_assyrian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:assyrian
+	}
+}
+moe_clothes_pop_assyrian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:assyrian
+	}
+}
+moe_clothes_tarascan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:tarascan
+	}
+}
+moe_clothes_pop_tarascan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:tarascan
+	}
+}
+moe_clothes_bassa_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:bassa
+	}
+}
+moe_clothes_pop_bassa_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:bassa
+	}
+}
+moe_clothes_platinean_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:platinean
+	}
+}
+moe_clothes_pop_platinean_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:platinean
+	}
+}
+moe_clothes_wolof_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:wolof
+	}
+}
+moe_clothes_pop_wolof_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:wolof
+	}
+}
+moe_clothes_norwegian_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:norwegian
+	}
+}
+moe_clothes_pop_norwegian_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:norwegian
+	}
+}
+moe_clothes_kashmiri_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kashmiri
+	}
+}
+moe_clothes_pop_kashmiri_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kashmiri
+	}
+}
+moe_clothes_caribeno_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:caribeno
+	}
+}
+moe_clothes_pop_caribeno_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:caribeno
+	}
+}
+moe_clothes_ashkenazi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:ashkenazi
+	}
+}
+moe_clothes_pop_ashkenazi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:ashkenazi
+	}
+}
+moe_clothes_khoisan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:khoisan
+	}
+}
+moe_clothes_pop_khoisan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:khoisan
+	}
+}
+moe_clothes_finnish_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:finnish
+	}
+}
+moe_clothes_pop_finnish_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:finnish
+	}
+}
+moe_clothes_bosniak_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:bosniak
+	}
+}
+moe_clothes_pop_bosniak_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:bosniak
+	}
+}
+moe_clothes_central_american_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:central_american
+	}
+}
+moe_clothes_pop_central_american_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:central_american
+	}
+}
+moe_clothes_hausa_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:hausa
+	}
+}
+moe_clothes_pop_hausa_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:hausa
+	}
+}
+moe_clothes_lacustrine_bantu_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:lacustrine_bantu
+	}
+}
+moe_clothes_pop_lacustrine_bantu_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:lacustrine_bantu
+	}
+}
+moe_clothes_maltese_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:maltese
+	}
+}
+moe_clothes_pop_maltese_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:maltese
+	}
+}
+moe_clothes_sindi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sindi
+	}
+}
+moe_clothes_pop_sindi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sindi
+	}
+}
+moe_clothes_paiute_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:paiute
+	}
+}
+moe_clothes_pop_paiute_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:paiute
+	}
+}
+moe_clothes_sukuma_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sukuma
+	}
+}
+moe_clothes_pop_sukuma_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sukuma
+	}
+}
+moe_clothes_lao_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:lao
+	}
+}
+moe_clothes_pop_lao_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:lao
+	}
+}
+moe_clothes_caddoan_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:caddoan
+	}
+}
+moe_clothes_pop_caddoan_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:caddoan
+	}
+}
+moe_clothes_kazak_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kazak
+	}
+}
+moe_clothes_pop_kazak_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kazak
+	}
+}
+moe_clothes_berber_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:berber
+	}
+}
+moe_clothes_pop_berber_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:berber
+	}
+}
+moe_clothes_comanche_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:comanche
+	}
+}
+moe_clothes_pop_comanche_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:comanche
+	}
+}
+moe_clothes_kissi_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:kissi
+	}
+}
+moe_clothes_pop_kissi_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:kissi
+	}
+}
+moe_clothes_sinhala_trigger = {
+	exists = scope:character
+	scope:character = {
+		culture = cu:sinhala
+	}
+}
+moe_clothes_pop_sinhala_trigger = {
+	exists = scope:pop
+	scope:pop = {
+		culture = cu:sinhala
+	}
+}
+

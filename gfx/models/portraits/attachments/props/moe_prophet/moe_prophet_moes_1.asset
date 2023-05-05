@@ -1,0 +1,4788 @@
+
+pdxmesh = {
+    name = "moe_prophet_british_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "british.png"
+        texture_specular = "british.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_british_entity"
+    pdxmesh = "moe_prophet_british_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_slovak_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "slovak.png"
+        texture_specular = "slovak.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_slovak_entity"
+    pdxmesh = "moe_prophet_slovak_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_khmer_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "khmer.png"
+        texture_specular = "khmer.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_khmer_entity"
+    pdxmesh = "moe_prophet_khmer_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_ibibio_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "ibibio.png"
+        texture_specular = "ibibio.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_ibibio_entity"
+    pdxmesh = "moe_prophet_ibibio_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_guajiro_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "guajiro.png"
+        texture_specular = "guajiro.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_guajiro_entity"
+    pdxmesh = "moe_prophet_guajiro_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_russian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "russian.png"
+        texture_specular = "russian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_russian_entity"
+    pdxmesh = "moe_prophet_russian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tibetan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tibetan.png"
+        texture_specular = "tibetan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tibetan_entity"
+    pdxmesh = "moe_prophet_tibetan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_malay_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "malay.png"
+        texture_specular = "malay.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_malay_entity"
+    pdxmesh = "moe_prophet_malay_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_lithuanian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "lithuanian.png"
+        texture_specular = "lithuanian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_lithuanian_entity"
+    pdxmesh = "moe_prophet_lithuanian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_vietnamese_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "vietnamese.png"
+        texture_specular = "vietnamese.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_vietnamese_entity"
+    pdxmesh = "moe_prophet_vietnamese_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sudanese_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sudanese.png"
+        texture_specular = "sudanese.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sudanese_entity"
+    pdxmesh = "moe_prophet_sudanese_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sotho_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sotho.png"
+        texture_specular = "sotho.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sotho_entity"
+    pdxmesh = "moe_prophet_sotho_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_edo_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "edo.png"
+        texture_specular = "edo.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_edo_entity"
+    pdxmesh = "moe_prophet_edo_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_﻿welsh_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "﻿welsh.png"
+        texture_specular = "﻿welsh.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_﻿welsh_entity"
+    pdxmesh = "moe_prophet_﻿welsh_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_anglo_canadian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "anglo_canadian.png"
+        texture_specular = "anglo_canadian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_anglo_canadian_entity"
+    pdxmesh = "moe_prophet_anglo_canadian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_moluccan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "moluccan.png"
+        texture_specular = "moluccan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_moluccan_entity"
+    pdxmesh = "moe_prophet_moluccan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_panjabi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "panjabi.png"
+        texture_specular = "panjabi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_panjabi_entity"
+    pdxmesh = "moe_prophet_panjabi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_shan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "shan.png"
+        texture_specular = "shan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_shan_entity"
+    pdxmesh = "moe_prophet_shan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_nepali_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "nepali.png"
+        texture_specular = "nepali.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_nepali_entity"
+    pdxmesh = "moe_prophet_nepali_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_nilotic_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "nilotic.png"
+        texture_specular = "nilotic.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_nilotic_entity"
+    pdxmesh = "moe_prophet_nilotic_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_malayalam_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "malayalam.png"
+        texture_specular = "malayalam.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_malayalam_entity"
+    pdxmesh = "moe_prophet_malayalam_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_french_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "french.png"
+        texture_specular = "french.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_french_entity"
+    pdxmesh = "moe_prophet_french_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_ewe_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "ewe.png"
+        texture_specular = "ewe.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_ewe_entity"
+    pdxmesh = "moe_prophet_ewe_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_mongol_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "mongol.png"
+        texture_specular = "mongol.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_mongol_entity"
+    pdxmesh = "moe_prophet_mongol_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_mon_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "mon.png"
+        texture_specular = "mon.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_mon_entity"
+    pdxmesh = "moe_prophet_mon_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_occitan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "occitan.png"
+        texture_specular = "occitan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_occitan_entity"
+    pdxmesh = "moe_prophet_occitan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_maures_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "maures.png"
+        texture_specular = "maures.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_maures_entity"
+    pdxmesh = "moe_prophet_maures_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_akan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "akan.png"
+        texture_specular = "akan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_akan_entity"
+    pdxmesh = "moe_prophet_akan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_mexican_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "mexican.png"
+        texture_specular = "mexican.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_mexican_entity"
+    pdxmesh = "moe_prophet_mexican_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_zhuang_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "zhuang.png"
+        texture_specular = "zhuang.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_zhuang_entity"
+    pdxmesh = "moe_prophet_zhuang_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_bihari_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "bihari.png"
+        texture_specular = "bihari.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_bihari_entity"
+    pdxmesh = "moe_prophet_bihari_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_gujarati_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "gujarati.png"
+        texture_specular = "gujarati.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_gujarati_entity"
+    pdxmesh = "moe_prophet_gujarati_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_siouan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "siouan.png"
+        texture_specular = "siouan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_siouan_entity"
+    pdxmesh = "moe_prophet_siouan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_inuit_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "inuit.png"
+        texture_specular = "inuit.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_inuit_entity"
+    pdxmesh = "moe_prophet_inuit_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_miskito_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "miskito.png"
+        texture_specular = "miskito.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_miskito_entity"
+    pdxmesh = "moe_prophet_miskito_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_hokan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "hokan.png"
+        texture_specular = "hokan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_hokan_entity"
+    pdxmesh = "moe_prophet_hokan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_uzbek_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "uzbek.png"
+        texture_specular = "uzbek.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_uzbek_entity"
+    pdxmesh = "moe_prophet_uzbek_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_han_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "han.png"
+        texture_specular = "han.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_han_entity"
+    pdxmesh = "moe_prophet_han_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_beja_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "beja.png"
+        texture_specular = "beja.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_beja_entity"
+    pdxmesh = "moe_prophet_beja_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_unyamwezi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "unyamwezi.png"
+        texture_specular = "unyamwezi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_unyamwezi_entity"
+    pdxmesh = "moe_prophet_unyamwezi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_north_italian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "north_italian.png"
+        texture_specular = "north_italian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_north_italian_entity"
+    pdxmesh = "moe_prophet_north_italian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_romanian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "romanian.png"
+        texture_specular = "romanian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_romanian_entity"
+    pdxmesh = "moe_prophet_romanian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_amhara_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "amhara.png"
+        texture_specular = "amhara.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_amhara_entity"
+    pdxmesh = "moe_prophet_amhara_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_south_german_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "south_german.png"
+        texture_specular = "south_german.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_south_german_entity"
+    pdxmesh = "moe_prophet_south_german_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_fang_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "fang.png"
+        texture_specular = "fang.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_fang_entity"
+    pdxmesh = "moe_prophet_fang_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_haratin_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "haratin.png"
+        texture_specular = "haratin.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_haratin_entity"
+    pdxmesh = "moe_prophet_haratin_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_bedouin_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "bedouin.png"
+        texture_specular = "bedouin.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_bedouin_entity"
+    pdxmesh = "moe_prophet_bedouin_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_south_andean_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "south_andean.png"
+        texture_specular = "south_andean.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_south_andean_entity"
+    pdxmesh = "moe_prophet_south_andean_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_north_german_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "north_german.png"
+        texture_specular = "north_german.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_north_german_entity"
+    pdxmesh = "moe_prophet_north_german_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_croat_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "croat.png"
+        texture_specular = "croat.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_croat_entity"
+    pdxmesh = "moe_prophet_croat_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kanuri_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kanuri.png"
+        texture_specular = "kanuri.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kanuri_entity"
+    pdxmesh = "moe_prophet_kanuri_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_yankee_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "yankee.png"
+        texture_specular = "yankee.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_yankee_entity"
+    pdxmesh = "moe_prophet_yankee_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_brazilian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "brazilian.png"
+        texture_specular = "brazilian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_brazilian_entity"
+    pdxmesh = "moe_prophet_brazilian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_lunda_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "lunda.png"
+        texture_specular = "lunda.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_lunda_entity"
+    pdxmesh = "moe_prophet_lunda_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_dinka_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "dinka.png"
+        texture_specular = "dinka.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_dinka_entity"
+    pdxmesh = "moe_prophet_dinka_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kikuyu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kikuyu.png"
+        texture_specular = "kikuyu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kikuyu_entity"
+    pdxmesh = "moe_prophet_kikuyu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_spanish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "spanish.png"
+        texture_specular = "spanish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_spanish_entity"
+    pdxmesh = "moe_prophet_spanish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tuvan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tuvan.png"
+        texture_specular = "tuvan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tuvan_entity"
+    pdxmesh = "moe_prophet_tuvan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_byelorussian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "byelorussian.png"
+        texture_specular = "byelorussian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_byelorussian_entity"
+    pdxmesh = "moe_prophet_byelorussian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_teda_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "teda.png"
+        texture_specular = "teda.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_teda_entity"
+    pdxmesh = "moe_prophet_teda_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_metis_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "metis.png"
+        texture_specular = "metis.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_metis_entity"
+    pdxmesh = "moe_prophet_metis_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_yakut_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "yakut.png"
+        texture_specular = "yakut.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_yakut_entity"
+    pdxmesh = "moe_prophet_yakut_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tonga_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tonga.png"
+        texture_specular = "tonga.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tonga_entity"
+    pdxmesh = "moe_prophet_tonga_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_dyula_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "dyula.png"
+        texture_specular = "dyula.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_dyula_entity"
+    pdxmesh = "moe_prophet_dyula_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_portuguese_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "portuguese.png"
+        texture_specular = "portuguese.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_portuguese_entity"
+    pdxmesh = "moe_prophet_portuguese_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_telegu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "telegu.png"
+        texture_specular = "telegu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_telegu_entity"
+    pdxmesh = "moe_prophet_telegu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_aborigine_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "aborigine.png"
+        texture_specular = "aborigine.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_aborigine_entity"
+    pdxmesh = "moe_prophet_aborigine_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_balinese_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "balinese.png"
+        texture_specular = "balinese.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_balinese_entity"
+    pdxmesh = "moe_prophet_balinese_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_burmese_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "burmese.png"
+        texture_specular = "burmese.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_burmese_entity"
+    pdxmesh = "moe_prophet_burmese_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_songhai_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "songhai.png"
+        texture_specular = "songhai.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_songhai_entity"
+    pdxmesh = "moe_prophet_songhai_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_luo_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "luo.png"
+        texture_specular = "luo.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_luo_entity"
+    pdxmesh = "moe_prophet_luo_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_corsican_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "corsican.png"
+        texture_specular = "corsican.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_corsican_entity"
+    pdxmesh = "moe_prophet_corsican_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_yue_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "yue.png"
+        texture_specular = "yue.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_yue_entity"
+    pdxmesh = "moe_prophet_yue_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_bulgarian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "bulgarian.png"
+        texture_specular = "bulgarian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_bulgarian_entity"
+    pdxmesh = "moe_prophet_bulgarian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_australian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "australian.png"
+        texture_specular = "australian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_australian_entity"
+    pdxmesh = "moe_prophet_australian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_herero_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "herero.png"
+        texture_specular = "herero.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_herero_entity"
+    pdxmesh = "moe_prophet_herero_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_muskogean_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "muskogean.png"
+        texture_specular = "muskogean.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_muskogean_entity"
+    pdxmesh = "moe_prophet_muskogean_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_somali_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "somali.png"
+        texture_specular = "somali.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_somali_entity"
+    pdxmesh = "moe_prophet_somali_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_nez_perce_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "nez_perce.png"
+        texture_specular = "nez_perce.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_nez_perce_entity"
+    pdxmesh = "moe_prophet_nez_perce_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_mande_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "mande.png"
+        texture_specular = "mande.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_mande_entity"
+    pdxmesh = "moe_prophet_mande_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_mossi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "mossi.png"
+        texture_specular = "mossi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_mossi_entity"
+    pdxmesh = "moe_prophet_mossi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tupinamba_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tupinamba.png"
+        texture_specular = "tupinamba.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tupinamba_entity"
+    pdxmesh = "moe_prophet_tupinamba_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sephardic_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sephardic.png"
+        texture_specular = "sephardic.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sephardic_entity"
+    pdxmesh = "moe_prophet_sephardic_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_bornean_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "bornean.png"
+        texture_specular = "bornean.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_bornean_entity"
+    pdxmesh = "moe_prophet_bornean_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_athabaskan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "athabaskan.png"
+        texture_specular = "athabaskan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_athabaskan_entity"
+    pdxmesh = "moe_prophet_athabaskan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_mashriqi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "mashriqi.png"
+        texture_specular = "mashriqi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_mashriqi_entity"
+    pdxmesh = "moe_prophet_mashriqi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_dayak_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "dayak.png"
+        texture_specular = "dayak.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_dayak_entity"
+    pdxmesh = "moe_prophet_dayak_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_oromo_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "oromo.png"
+        texture_specular = "oromo.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_oromo_entity"
+    pdxmesh = "moe_prophet_oromo_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_iroquoian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "iroquoian.png"
+        texture_specular = "iroquoian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_iroquoian_entity"
+    pdxmesh = "moe_prophet_iroquoian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kachin_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kachin.png"
+        texture_specular = "kachin.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kachin_entity"
+    pdxmesh = "moe_prophet_kachin_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_aimara_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "aimara.png"
+        texture_specular = "aimara.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_aimara_entity"
+    pdxmesh = "moe_prophet_aimara_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_moro_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "moro.png"
+        texture_specular = "moro.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_moro_entity"
+    pdxmesh = "moe_prophet_moro_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_javan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "javan.png"
+        texture_specular = "javan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_javan_entity"
+    pdxmesh = "moe_prophet_javan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_dakota_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "dakota.png"
+        texture_specular = "dakota.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_dakota_entity"
+    pdxmesh = "moe_prophet_dakota_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_cariban_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "cariban.png"
+        texture_specular = "cariban.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_cariban_entity"
+    pdxmesh = "moe_prophet_cariban_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sara_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sara.png"
+        texture_specular = "sara.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sara_entity"
+    pdxmesh = "moe_prophet_sara_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_equatorial_bantu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "equatorial_bantu.png"
+        texture_specular = "equatorial_bantu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_equatorial_bantu_entity"
+    pdxmesh = "moe_prophet_equatorial_bantu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_circassian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "circassian.png"
+        texture_specular = "circassian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_circassian_entity"
+    pdxmesh = "moe_prophet_circassian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_albanian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "albanian.png"
+        texture_specular = "albanian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_albanian_entity"
+    pdxmesh = "moe_prophet_albanian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_bengali_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "bengali.png"
+        texture_specular = "bengali.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_bengali_entity"
+    pdxmesh = "moe_prophet_bengali_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tajik_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tajik.png"
+        texture_specular = "tajik.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tajik_entity"
+    pdxmesh = "moe_prophet_tajik_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_wallonian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "wallonian.png"
+        texture_specular = "wallonian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_wallonian_entity"
+    pdxmesh = "moe_prophet_wallonian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_azerbaijani_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "azerbaijani.png"
+        texture_specular = "azerbaijani.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_azerbaijani_entity"
+    pdxmesh = "moe_prophet_azerbaijani_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_rajput_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "rajput.png"
+        texture_specular = "rajput.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_rajput_entity"
+    pdxmesh = "moe_prophet_rajput_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_polynesian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "polynesian.png"
+        texture_specular = "polynesian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_polynesian_entity"
+    pdxmesh = "moe_prophet_polynesian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_greek_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "greek.png"
+        texture_specular = "greek.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_greek_entity"
+    pdxmesh = "moe_prophet_greek_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_zapotec_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "zapotec.png"
+        texture_specular = "zapotec.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_zapotec_entity"
+    pdxmesh = "moe_prophet_zapotec_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_baluchi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "baluchi.png"
+        texture_specular = "baluchi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_baluchi_entity"
+    pdxmesh = "moe_prophet_baluchi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_armenian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "armenian.png"
+        texture_specular = "armenian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_armenian_entity"
+    pdxmesh = "moe_prophet_armenian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_batak_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "batak.png"
+        texture_specular = "batak.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_batak_entity"
+    pdxmesh = "moe_prophet_batak_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_thai_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "thai.png"
+        texture_specular = "thai.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_thai_entity"
+    pdxmesh = "moe_prophet_thai_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_afro_american_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "afro_american.png"
+        texture_specular = "afro_american.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_afro_american_entity"
+    pdxmesh = "moe_prophet_afro_american_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_flemish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "flemish.png"
+        texture_specular = "flemish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_flemish_entity"
+    pdxmesh = "moe_prophet_flemish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_ukrainian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "ukrainian.png"
+        texture_specular = "ukrainian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_ukrainian_entity"
+    pdxmesh = "moe_prophet_ukrainian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_avadhi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "avadhi.png"
+        texture_specular = "avadhi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_avadhi_entity"
+    pdxmesh = "moe_prophet_avadhi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_melanesian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "melanesian.png"
+        texture_specular = "melanesian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_melanesian_entity"
+    pdxmesh = "moe_prophet_melanesian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_nahua_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "nahua.png"
+        texture_specular = "nahua.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_nahua_entity"
+    pdxmesh = "moe_prophet_nahua_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_mixtec_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "mixtec.png"
+        texture_specular = "mixtec.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_mixtec_entity"
+    pdxmesh = "moe_prophet_mixtec_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_rundi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "rundi.png"
+        texture_specular = "rundi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_rundi_entity"
+    pdxmesh = "moe_prophet_rundi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_siberian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "siberian.png"
+        texture_specular = "siberian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_siberian_entity"
+    pdxmesh = "moe_prophet_siberian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_fluvian_bantu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "fluvian_bantu.png"
+        texture_specular = "fluvian_bantu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_fluvian_bantu_entity"
+    pdxmesh = "moe_prophet_fluvian_bantu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tigray_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tigray.png"
+        texture_specular = "tigray.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tigray_entity"
+    pdxmesh = "moe_prophet_tigray_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_hungarian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "hungarian.png"
+        texture_specular = "hungarian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_hungarian_entity"
+    pdxmesh = "moe_prophet_hungarian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_boer_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "boer.png"
+        texture_specular = "boer.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_boer_entity"
+    pdxmesh = "moe_prophet_boer_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_salish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "salish.png"
+        texture_specular = "salish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_salish_entity"
+    pdxmesh = "moe_prophet_salish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_south_italian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "south_italian.png"
+        texture_specular = "south_italian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_south_italian_entity"
+    pdxmesh = "moe_prophet_south_italian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_afar_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "afar.png"
+        texture_specular = "afar.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_afar_entity"
+    pdxmesh = "moe_prophet_afar_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_baganda_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "baganda.png"
+        texture_specular = "baganda.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_baganda_entity"
+    pdxmesh = "moe_prophet_baganda_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_maori_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "maori.png"
+        texture_specular = "maori.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_maori_entity"
+    pdxmesh = "moe_prophet_maori_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_malagasy_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "malagasy.png"
+        texture_specular = "malagasy.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_malagasy_entity"
+    pdxmesh = "moe_prophet_malagasy_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_nuer_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "nuer.png"
+        texture_specular = "nuer.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_nuer_entity"
+    pdxmesh = "moe_prophet_nuer_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_north_caucasian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "north_caucasian.png"
+        texture_specular = "north_caucasian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_north_caucasian_entity"
+    pdxmesh = "moe_prophet_north_caucasian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_nguni_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "nguni.png"
+        texture_specular = "nguni.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_nguni_entity"
+    pdxmesh = "moe_prophet_nguni_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sidama_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sidama.png"
+        texture_specular = "sidama.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sidama_entity"
+    pdxmesh = "moe_prophet_sidama_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sena_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sena.png"
+        texture_specular = "sena.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sena_entity"
+    pdxmesh = "moe_prophet_sena_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_afro_caribeno_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "afro_caribeno.png"
+        texture_specular = "afro_caribeno.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_afro_caribeno_entity"
+    pdxmesh = "moe_prophet_afro_caribeno_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sumatran_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sumatran.png"
+        texture_specular = "sumatran.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sumatran_entity"
+    pdxmesh = "moe_prophet_sumatran_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_fur_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "fur.png"
+        texture_specular = "fur.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_fur_entity"
+    pdxmesh = "moe_prophet_fur_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_apache_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "apache.png"
+        texture_specular = "apache.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_apache_entity"
+    pdxmesh = "moe_prophet_apache_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_mayan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "mayan.png"
+        texture_specular = "mayan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_mayan_entity"
+    pdxmesh = "moe_prophet_mayan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_shona_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "shona.png"
+        texture_specular = "shona.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_shona_entity"
+    pdxmesh = "moe_prophet_shona_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tswana_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tswana.png"
+        texture_specular = "tswana.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tswana_entity"
+    pdxmesh = "moe_prophet_tswana_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_afro_antillean_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "afro_antillean.png"
+        texture_specular = "afro_antillean.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_afro_antillean_entity"
+    pdxmesh = "moe_prophet_afro_antillean_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_serb_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "serb.png"
+        texture_specular = "serb.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_serb_entity"
+    pdxmesh = "moe_prophet_serb_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_manchu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "manchu.png"
+        texture_specular = "manchu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_manchu_entity"
+    pdxmesh = "moe_prophet_manchu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_irish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "irish.png"
+        texture_specular = "irish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_irish_entity"
+    pdxmesh = "moe_prophet_irish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_ugrian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "ugrian.png"
+        texture_specular = "ugrian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_ugrian_entity"
+    pdxmesh = "moe_prophet_ugrian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_danish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "danish.png"
+        texture_specular = "danish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_danish_entity"
+    pdxmesh = "moe_prophet_danish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_pashtun_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "pashtun.png"
+        texture_specular = "pashtun.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_pashtun_entity"
+    pdxmesh = "moe_prophet_pashtun_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kanauji_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kanauji.png"
+        texture_specular = "kanauji.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kanauji_entity"
+    pdxmesh = "moe_prophet_kanauji_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_ovimbundu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "ovimbundu.png"
+        texture_specular = "ovimbundu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_ovimbundu_entity"
+    pdxmesh = "moe_prophet_ovimbundu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_dutch_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "dutch.png"
+        texture_specular = "dutch.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_dutch_entity"
+    pdxmesh = "moe_prophet_dutch_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_persian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "persian.png"
+        texture_specular = "persian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_persian_entity"
+    pdxmesh = "moe_prophet_persian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sorb_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sorb.png"
+        texture_specular = "sorb.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sorb_entity"
+    pdxmesh = "moe_prophet_sorb_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_khmu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "khmu.png"
+        texture_specular = "khmu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_khmu_entity"
+    pdxmesh = "moe_prophet_khmu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_dixie_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "dixie.png"
+        texture_specular = "dixie.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_dixie_entity"
+    pdxmesh = "moe_prophet_dixie_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_polish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "polish.png"
+        texture_specular = "polish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_polish_entity"
+    pdxmesh = "moe_prophet_polish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_lomwe_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "lomwe.png"
+        texture_specular = "lomwe.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_lomwe_entity"
+    pdxmesh = "moe_prophet_lomwe_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_xhosa_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "xhosa.png"
+        texture_specular = "xhosa.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_xhosa_entity"
+    pdxmesh = "moe_prophet_xhosa_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_icelandic_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "icelandic.png"
+        texture_specular = "icelandic.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_icelandic_entity"
+    pdxmesh = "moe_prophet_icelandic_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_mongo_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "mongo.png"
+        texture_specular = "mongo.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_mongo_entity"
+    pdxmesh = "moe_prophet_mongo_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_slovene_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "slovene.png"
+        texture_specular = "slovene.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_slovene_entity"
+    pdxmesh = "moe_prophet_slovene_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_estonian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "estonian.png"
+        texture_specular = "estonian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_estonian_entity"
+    pdxmesh = "moe_prophet_estonian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kru_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kru.png"
+        texture_specular = "kru.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kru_entity"
+    pdxmesh = "moe_prophet_kru_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_oriya_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "oriya.png"
+        texture_specular = "oriya.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_oriya_entity"
+    pdxmesh = "moe_prophet_oriya_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_cajun_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "cajun.png"
+        texture_specular = "cajun.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_cajun_entity"
+    pdxmesh = "moe_prophet_cajun_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_hakka_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "hakka.png"
+        texture_specular = "hakka.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_hakka_entity"
+    pdxmesh = "moe_prophet_hakka_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_marathi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "marathi.png"
+        texture_specular = "marathi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_marathi_entity"
+    pdxmesh = "moe_prophet_marathi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sami_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sami.png"
+        texture_specular = "sami.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sami_entity"
+    pdxmesh = "moe_prophet_sami_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_bakongo_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "bakongo.png"
+        texture_specular = "bakongo.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_bakongo_entity"
+    pdxmesh = "moe_prophet_bakongo_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_min_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "min.png"
+        texture_specular = "min.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_min_entity"
+    pdxmesh = "moe_prophet_min_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_luba_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "luba.png"
+        texture_specular = "luba.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_luba_entity"
+    pdxmesh = "moe_prophet_luba_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_oodham_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "oodham.png"
+        texture_specular = "oodham.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_oodham_entity"
+    pdxmesh = "moe_prophet_oodham_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_muisca_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "muisca.png"
+        texture_specular = "muisca.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_muisca_entity"
+    pdxmesh = "moe_prophet_muisca_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_pueblo_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "pueblo.png"
+        texture_specular = "pueblo.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_pueblo_entity"
+    pdxmesh = "moe_prophet_pueblo_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_makua_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "makua.png"
+        texture_specular = "makua.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_makua_entity"
+    pdxmesh = "moe_prophet_makua_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_yemenite_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "yemenite.png"
+        texture_specular = "yemenite.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_yemenite_entity"
+    pdxmesh = "moe_prophet_yemenite_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kalmyk_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kalmyk.png"
+        texture_specular = "kalmyk.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kalmyk_entity"
+    pdxmesh = "moe_prophet_kalmyk_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_swedish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "swedish.png"
+        texture_specular = "swedish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_swedish_entity"
+    pdxmesh = "moe_prophet_swedish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_korean_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "korean.png"
+        texture_specular = "korean.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_korean_entity"
+    pdxmesh = "moe_prophet_korean_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_yoruba_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "yoruba.png"
+        texture_specular = "yoruba.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_yoruba_entity"
+    pdxmesh = "moe_prophet_yoruba_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_maasai_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "maasai.png"
+        texture_specular = "maasai.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_maasai_entity"
+    pdxmesh = "moe_prophet_maasai_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_manipuri_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "manipuri.png"
+        texture_specular = "manipuri.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_manipuri_entity"
+    pdxmesh = "moe_prophet_manipuri_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_scottish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "scottish.png"
+        texture_specular = "scottish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_scottish_entity"
+    pdxmesh = "moe_prophet_scottish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_hazara_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "hazara.png"
+        texture_specular = "hazara.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_hazara_entity"
+    pdxmesh = "moe_prophet_hazara_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_ainu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "ainu.png"
+        texture_specular = "ainu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_ainu_entity"
+    pdxmesh = "moe_prophet_ainu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_latvian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "latvian.png"
+        texture_specular = "latvian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_latvian_entity"
+    pdxmesh = "moe_prophet_latvian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_yao_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "yao.png"
+        texture_specular = "yao.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_yao_entity"
+    pdxmesh = "moe_prophet_yao_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_navajo_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "navajo.png"
+        texture_specular = "navajo.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_navajo_entity"
+    pdxmesh = "moe_prophet_navajo_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_catalan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "catalan.png"
+        texture_specular = "catalan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_catalan_entity"
+    pdxmesh = "moe_prophet_catalan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_hawaiian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "hawaiian.png"
+        texture_specular = "hawaiian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_hawaiian_entity"
+    pdxmesh = "moe_prophet_hawaiian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_cherokee_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "cherokee.png"
+        texture_specular = "cherokee.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_cherokee_entity"
+    pdxmesh = "moe_prophet_cherokee_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_ruanda_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "ruanda.png"
+        texture_specular = "ruanda.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_ruanda_entity"
+    pdxmesh = "moe_prophet_ruanda_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_guarani_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "guarani.png"
+        texture_specular = "guarani.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_guarani_entity"
+    pdxmesh = "moe_prophet_guarani_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_turkmen_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "turkmen.png"
+        texture_specular = "turkmen.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_turkmen_entity"
+    pdxmesh = "moe_prophet_turkmen_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_breton_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "breton.png"
+        texture_specular = "breton.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_breton_entity"
+    pdxmesh = "moe_prophet_breton_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_maghrebi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "maghrebi.png"
+        texture_specular = "maghrebi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_maghrebi_entity"
+    pdxmesh = "moe_prophet_maghrebi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_czech_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "czech.png"
+        texture_specular = "czech.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_czech_entity"
+    pdxmesh = "moe_prophet_czech_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_georgian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "georgian.png"
+        texture_specular = "georgian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_georgian_entity"
+    pdxmesh = "moe_prophet_georgian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_assamese_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "assamese.png"
+        texture_specular = "assamese.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_assamese_entity"
+    pdxmesh = "moe_prophet_assamese_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_quechua_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "quechua.png"
+        texture_specular = "quechua.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_quechua_entity"
+    pdxmesh = "moe_prophet_quechua_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_north_andean_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "north_andean.png"
+        texture_specular = "north_andean.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_north_andean_entity"
+    pdxmesh = "moe_prophet_north_andean_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_karen_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "karen.png"
+        texture_specular = "karen.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_karen_entity"
+    pdxmesh = "moe_prophet_karen_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_ibo_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "ibo.png"
+        texture_specular = "ibo.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_ibo_entity"
+    pdxmesh = "moe_prophet_ibo_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_swahili_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "swahili.png"
+        texture_specular = "swahili.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_swahili_entity"
+    pdxmesh = "moe_prophet_swahili_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_galician_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "galician.png"
+        texture_specular = "galician.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_galician_entity"
+    pdxmesh = "moe_prophet_galician_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_baguirmi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "baguirmi.png"
+        texture_specular = "baguirmi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_baguirmi_entity"
+    pdxmesh = "moe_prophet_baguirmi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_basque_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "basque.png"
+        texture_specular = "basque.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_basque_entity"
+    pdxmesh = "moe_prophet_basque_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_misri_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "misri.png"
+        texture_specular = "misri.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_misri_entity"
+    pdxmesh = "moe_prophet_misri_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kurdish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kurdish.png"
+        texture_specular = "kurdish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kurdish_entity"
+    pdxmesh = "moe_prophet_kurdish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_japanese_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "japanese.png"
+        texture_specular = "japanese.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_japanese_entity"
+    pdxmesh = "moe_prophet_japanese_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_zulu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "zulu.png"
+        texture_specular = "zulu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_zulu_entity"
+    pdxmesh = "moe_prophet_zulu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kavango_bantu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kavango_bantu.png"
+        texture_specular = "kavango_bantu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kavango_bantu_entity"
+    pdxmesh = "moe_prophet_kavango_bantu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_fon_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "fon.png"
+        texture_specular = "fon.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_fon_entity"
+    pdxmesh = "moe_prophet_fon_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tamil_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tamil.png"
+        texture_specular = "tamil.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tamil_entity"
+    pdxmesh = "moe_prophet_tamil_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_swiss_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "swiss.png"
+        texture_specular = "swiss.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_swiss_entity"
+    pdxmesh = "moe_prophet_swiss_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_afro_caribbean_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "afro_caribbean.png"
+        texture_specular = "afro_caribbean.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_afro_caribbean_entity"
+    pdxmesh = "moe_prophet_afro_caribbean_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_bambara_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "bambara.png"
+        texture_specular = "bambara.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_bambara_entity"
+    pdxmesh = "moe_prophet_bambara_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_franco_canadian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "franco_canadian.png"
+        texture_specular = "franco_canadian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_franco_canadian_entity"
+    pdxmesh = "moe_prophet_franco_canadian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tiv_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tiv.png"
+        texture_specular = "tiv.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tiv_entity"
+    pdxmesh = "moe_prophet_tiv_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_azande_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "azande.png"
+        texture_specular = "azande.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_azande_entity"
+    pdxmesh = "moe_prophet_azande_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_nuba_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "nuba.png"
+        texture_specular = "nuba.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_nuba_entity"
+    pdxmesh = "moe_prophet_nuba_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_yi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "yi.png"
+        texture_specular = "yi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_yi_entity"
+    pdxmesh = "moe_prophet_yi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_miao_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "miao.png"
+        texture_specular = "miao.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_miao_entity"
+    pdxmesh = "moe_prophet_miao_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tatar_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tatar.png"
+        texture_specular = "tatar.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tatar_entity"
+    pdxmesh = "moe_prophet_tatar_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_senufo_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "senufo.png"
+        texture_specular = "senufo.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_senufo_entity"
+    pdxmesh = "moe_prophet_senufo_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_amazonian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "amazonian.png"
+        texture_specular = "amazonian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_amazonian_entity"
+    pdxmesh = "moe_prophet_amazonian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_chewa_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "chewa.png"
+        texture_specular = "chewa.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_chewa_entity"
+    pdxmesh = "moe_prophet_chewa_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kannada_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kannada.png"
+        texture_specular = "kannada.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kannada_entity"
+    pdxmesh = "moe_prophet_kannada_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_fulbe_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "fulbe.png"
+        texture_specular = "fulbe.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_fulbe_entity"
+    pdxmesh = "moe_prophet_fulbe_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tuareg_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tuareg.png"
+        texture_specular = "tuareg.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tuareg_entity"
+    pdxmesh = "moe_prophet_tuareg_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_micronesian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "micronesian.png"
+        texture_specular = "micronesian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_micronesian_entity"
+    pdxmesh = "moe_prophet_micronesian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_filipino_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "filipino.png"
+        texture_specular = "filipino.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_filipino_entity"
+    pdxmesh = "moe_prophet_filipino_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_cree_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "cree.png"
+        texture_specular = "cree.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_cree_entity"
+    pdxmesh = "moe_prophet_cree_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_turkish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "turkish.png"
+        texture_specular = "turkish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_turkish_entity"
+    pdxmesh = "moe_prophet_turkish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_uighur_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "uighur.png"
+        texture_specular = "uighur.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_uighur_entity"
+    pdxmesh = "moe_prophet_uighur_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_afro_brazilian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "afro_brazilian.png"
+        texture_specular = "afro_brazilian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_afro_brazilian_entity"
+    pdxmesh = "moe_prophet_afro_brazilian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_algonquian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "algonquian.png"
+        texture_specular = "algonquian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_algonquian_entity"
+    pdxmesh = "moe_prophet_algonquian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kirgiz_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kirgiz.png"
+        texture_specular = "kirgiz.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kirgiz_entity"
+    pdxmesh = "moe_prophet_kirgiz_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_patagonian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "patagonian.png"
+        texture_specular = "patagonian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_patagonian_entity"
+    pdxmesh = "moe_prophet_patagonian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_assyrian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "assyrian.png"
+        texture_specular = "assyrian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_assyrian_entity"
+    pdxmesh = "moe_prophet_assyrian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_tarascan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "tarascan.png"
+        texture_specular = "tarascan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_tarascan_entity"
+    pdxmesh = "moe_prophet_tarascan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_bassa_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "bassa.png"
+        texture_specular = "bassa.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_bassa_entity"
+    pdxmesh = "moe_prophet_bassa_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_platinean_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "platinean.png"
+        texture_specular = "platinean.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_platinean_entity"
+    pdxmesh = "moe_prophet_platinean_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_wolof_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "wolof.png"
+        texture_specular = "wolof.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_wolof_entity"
+    pdxmesh = "moe_prophet_wolof_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_norwegian_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "norwegian.png"
+        texture_specular = "norwegian.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_norwegian_entity"
+    pdxmesh = "moe_prophet_norwegian_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kashmiri_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kashmiri.png"
+        texture_specular = "kashmiri.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kashmiri_entity"
+    pdxmesh = "moe_prophet_kashmiri_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_caribeno_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "caribeno.png"
+        texture_specular = "caribeno.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_caribeno_entity"
+    pdxmesh = "moe_prophet_caribeno_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_ashkenazi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "ashkenazi.png"
+        texture_specular = "ashkenazi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_ashkenazi_entity"
+    pdxmesh = "moe_prophet_ashkenazi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_khoisan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "khoisan.png"
+        texture_specular = "khoisan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_khoisan_entity"
+    pdxmesh = "moe_prophet_khoisan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_finnish_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "finnish.png"
+        texture_specular = "finnish.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_finnish_entity"
+    pdxmesh = "moe_prophet_finnish_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_bosniak_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "bosniak.png"
+        texture_specular = "bosniak.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_bosniak_entity"
+    pdxmesh = "moe_prophet_bosniak_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_central_american_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "central_american.png"
+        texture_specular = "central_american.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_central_american_entity"
+    pdxmesh = "moe_prophet_central_american_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_hausa_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "hausa.png"
+        texture_specular = "hausa.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_hausa_entity"
+    pdxmesh = "moe_prophet_hausa_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_lacustrine_bantu_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "lacustrine_bantu.png"
+        texture_specular = "lacustrine_bantu.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_lacustrine_bantu_entity"
+    pdxmesh = "moe_prophet_lacustrine_bantu_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_maltese_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "maltese.png"
+        texture_specular = "maltese.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_maltese_entity"
+    pdxmesh = "moe_prophet_maltese_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sindi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sindi.png"
+        texture_specular = "sindi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sindi_entity"
+    pdxmesh = "moe_prophet_sindi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_paiute_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "paiute.png"
+        texture_specular = "paiute.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_paiute_entity"
+    pdxmesh = "moe_prophet_paiute_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sukuma_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sukuma.png"
+        texture_specular = "sukuma.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sukuma_entity"
+    pdxmesh = "moe_prophet_sukuma_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_lao_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "lao.png"
+        texture_specular = "lao.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_lao_entity"
+    pdxmesh = "moe_prophet_lao_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_caddoan_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "caddoan.png"
+        texture_specular = "caddoan.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_caddoan_entity"
+    pdxmesh = "moe_prophet_caddoan_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kazak_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kazak.png"
+        texture_specular = "kazak.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kazak_entity"
+    pdxmesh = "moe_prophet_kazak_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_berber_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "berber.png"
+        texture_specular = "berber.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_berber_entity"
+    pdxmesh = "moe_prophet_berber_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_comanche_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "comanche.png"
+        texture_specular = "comanche.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_comanche_entity"
+    pdxmesh = "moe_prophet_comanche_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_kissi_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "kissi.png"
+        texture_specular = "kissi.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_kissi_entity"
+    pdxmesh = "moe_prophet_kissi_mesh"
+}
+
+pdxmesh = {
+    name = "moe_prophet_sinhala_mesh"
+    file = "hm_prophet.mesh"
+    scale = 1.5
+    meshsettings = {
+        name = "prophet_shieldShape"
+        index = 0
+        texture_diffuse = "sinhala.png"
+        texture_specular = "sinhala.png"
+        shader = "portrait_attachment_alpha_to_coverage"
+        shader_file = "gfx/hmportrait.shader"
+    }
+}
+entity = {
+    name = "moe_prophet_sinhala_entity"
+    pdxmesh = "moe_prophet_sinhala_mesh"
+}

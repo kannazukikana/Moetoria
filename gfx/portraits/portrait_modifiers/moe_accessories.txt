@@ -1,0 +1,10 @@
+﻿accessories = {
+	usage = game
+	selection_behavior = weighted_random
+	#fallback = no_headgear
+
+    european_shopkeeper_clothes = {
+        dna_modifiers = {
+        }
+    }
+}
