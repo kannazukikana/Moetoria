@@ -92,9 +92,9 @@ moe_prophet_edo = {
     boy = male
     girl = male
 }
-moe_prophet_﻿welsh = {
-    index = 13
-    male = { 1 = moe_prophet_﻿welsh }
+moe_prophet_welsh = {
+    index = 12
+    male = { 1 = moe_prophet_welsh }
     female = male
     boy = male
     girl = male

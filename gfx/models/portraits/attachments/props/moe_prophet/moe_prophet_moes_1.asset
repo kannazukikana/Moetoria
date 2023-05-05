@@ -234,21 +234,21 @@ entity = {
 }
 
 pdxmesh = {
-    name = "moe_prophet_﻿welsh_mesh"
+    name = "moe_prophet_welsh_mesh"
     file = "hm_prophet.mesh"
     scale = 1.5
     meshsettings = {
         name = "prophet_shieldShape"
         index = 0
-        texture_diffuse = "﻿welsh.png"
-        texture_specular = "﻿welsh.png"
+        texture_diffuse = "welsh.png"
+        texture_specular = "welsh.png"
         shader = "portrait_attachment_alpha_to_coverage"
         shader_file = "gfx/hmportrait.shader"
     }
 }
 entity = {
-    name = "moe_prophet_﻿welsh_entity"
-    pdxmesh = "moe_prophet_﻿welsh_mesh"
+    name = "moe_prophet_welsh_entity"
+    pdxmesh = "moe_prophet_welsh_mesh"
 }
 
 pdxmesh = {

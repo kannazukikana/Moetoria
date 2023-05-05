@@ -38,8 +38,8 @@ moe_prophet_sotho = {
 moe_prophet_edo = {
     entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_edo_entity" }
 }
-moe_prophet_﻿welsh = {
-    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_﻿welsh_entity" }
+moe_prophet_welsh = {
+    entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_welsh_entity" }
 }
 moe_prophet_anglo_canadian = {
     entity = { required_tags = "" node = "bn_h_head_mid" entity = "moe_prophet_anglo_canadian_entity" }

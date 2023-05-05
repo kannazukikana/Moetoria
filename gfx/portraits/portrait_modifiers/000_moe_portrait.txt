@@ -259,12 +259,12 @@ edo = {
         }
     }
 }
-﻿welsh = {
+welsh = {
     dna_modifiers = {
         accessory = {
             mode = add
             gene = moeprops_1
-            template = moe_prophet_﻿welsh
+            template = moe_prophet_welsh
             value = 0.5
         }
     }
@@ -272,8 +272,8 @@ edo = {
         base = 0
         modifier = {
             or = {
-                moe_clothes_﻿welsh_trigger = yes
-                moe_clothes_pop_﻿welsh_trigger = yes
+                moe_clothes_welsh_trigger = yes
+                moe_clothes_pop_welsh_trigger = yes
             }
             add = 1000
         }

@@ -155,16 +155,16 @@ moe_clothes_pop_edo_trigger = {
 		culture = cu:edo
 	}
 }
-moe_clothes_﻿welsh_trigger = {
+moe_clothes_welsh_trigger = {
 	exists = scope:character
 	scope:character = {
-		culture = cu:﻿welsh
+		culture = cu:welsh
 	}
 }
-moe_clothes_pop_﻿welsh_trigger = {
+moe_clothes_pop_welsh_trigger = {
 	exists = scope:pop
 	scope:pop = {
-		culture = cu:﻿welsh
+		culture = cu:welsh
 	}
 }
 moe_clothes_anglo_canadian_trigger = {

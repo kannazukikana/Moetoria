@@ -11,7 +11,7 @@ vietnamese
 sudanese
 sotho
 edo
-﻿welsh
+welsh
 anglo_canadian
 moluccan
 panjabi
@@ -46,7 +46,7 @@ fang
 haratin
 bedouin
 south_andean
-﻿north_german
+north_german
 croat
 kanuri
 yankee
